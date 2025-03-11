@@ -25,6 +25,14 @@ Globalization has created dependence. **ARKTIK restores local supply chains, eco
 ### 5. **Separation from Speculative & Passive Systems**
 ARKTIK does not engage in **debt-driven economies, reliance on government dependency, or speculative financial models**. Our principles are rooted in **work, craftsmanship, execution, and ownership**.
 
+### 6. **Faith-Driven Charity & Stewardship**
+As commanded by faith, **ARKTIK commits 10% of all proceeds to charitable works** focused on:
+- **Supporting the disabled and aged** who lack the ability to engage in execution-based wealth building.
+- **Providing assistance to widows and orphans**, ensuring care and stability for the most vulnerable.
+- **Funding "boots on the ground" ministries** that directly serve communities through faith-driven outreach.
+
+ARKTIK ensures that all contributions are made to **organizations and individuals actively engaged in faith-aligned execution and service**.
+
 ---
 
 ## Commitment to Execution-Based Governance

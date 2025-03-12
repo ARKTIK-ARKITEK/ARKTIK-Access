@@ -32,7 +32,15 @@ All listings are **subject to review and approval** to maintain quality and inte
 
 - **Execution-Based Payments** – All transactions must be backed by a deliverable, verifiable service, or tangible asset.  
 - **Smart Contract Escrow System** – Payments may be held in escrow until execution milestones are met.  
-- **Fee Structure** – ARKTIK applies a **flat 10% execution fee** on marketplace transactions to support ecosystem sustainability.  
+- **Fee Structure & Performance-Based Rewards**  
+  - **Base Fee:** ARKTIK applies a **flat 10% execution fee** on marketplace transactions to support ecosystem sustainability.  
+  - **Performance-Based Reductions:** Members who consistently demonstrate high transaction **volume, quality service, and positive survey feedback** can **earn fee reductions down to 1%**.  
+  - **Criteria for Fee Reductions:**  
+    - **Transaction Volume:** Higher number of completed transactions.  
+    - **Quality Assurance:** Verified execution and fulfillment standards met consistently.  
+    - **Community Feedback:** High customer satisfaction scores and positive peer reviews.  
+  - **Fee Adjustments:** Evaluated quarterly based on execution performance metrics.  
+
 - **No Passive Speculation** – ARKTIK does not permit market manipulation, speculative trading, or non-backed investments.  
 
 ---  

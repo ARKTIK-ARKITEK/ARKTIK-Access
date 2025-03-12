@@ -61,6 +61,9 @@ Businesses, faith organizations, and strategic partners can **host, sponsor, or 
 
 ## **5. Get Involved in ARKTIK Events**  
 Interested in attending, hosting, or sponsoring an ARKTIK event?  
+📌 **[Request an Invitation](membership_guidelines.md)**  
+📌 **[Event Calendar & Bookings](#)** *(Coming Soon)*  
+📌 **[Partnership & Sponsorship Inquiries](#)** *(Contact ARKTIK Events team for collaboration opportunities.)*  
 
 ---  
 
@@ -70,4 +73,3 @@ All ARKTIK Events are protected under the **ARKTIK Hybrid License**, ensuring co
 ---  
 
 **Welcome to ARKTIK Events—where faith, excellence, and elite experiences converge.**  
-

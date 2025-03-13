@@ -26,23 +26,23 @@ ARKTIK Access is the unifying structure that connects:
 
 ## **3. ARKTIK Access Structure & Key Components**  
 
-### **🛠 ARKTIK Initiative (Nonprofit) | Faith, Education & Community Impact**  
+### **ARKTIK Initiative (Nonprofit) | Faith, Education & Community Impact**  
 ✔ **Education & Accreditation** – A.C.E. (ARKTIK Curriculum for Education) & faith-based learning.  
 ✔ **Sustainable Living & Self-Sufficiency** – ALOT (Agricultural, Land, & Off-Grid Technologies) for holistic community solutions.  
 ✔ **Humanitarian & Ethical Investment Projects** – Funding programs that align with **charity, stewardship, and faith-driven impact.**  
 
-### **💰 ARKTIK Capital (For-Profit) | Execution-Based Wealth & Business Development**  
+### **ARKTIK Capital (For-Profit) | Execution-Based Wealth & Business Development**  
 ✔ **Web3 & Hybrid Financial Solutions** – Secure, decentralized execution for business & financial growth.  
 ✔ **Real Estate & Sustainable Property Development** – ARKTIK Estates for self-sufficient, off-grid property models.  
 ✔ **Business Incubation & Investment** – Providing capital & execution-based funding opportunities.  
 
-### **🏡 ARKTIK Lifestyle | Faith-Aligned Leisure & Community Activities**  
+### **ARKTIK Lifestyle | Faith-Aligned Leisure & Community Activities**  
 ✔ **Non-Business, Pure Leisure Activities** – **No solicitation, recruitment, or financial discussions allowed in Lifestyle events.**  
 ✔ **Exclusive Family & Faith-Friendly Events** – Skating, rock climbing, bowling, fishing, flag football, soccer, survival training, and nature outings.  
 ✔ **Sabbath-Friendly Gatherings** – ARKTIK ensures activities that do not conflict with **faith-based rest and observance.**  
 ✔ **Healthy Living & Community Bonding** – A space to **relax, connect, and enjoy a quality life in alignment with faith principles.**  
 
-### **🎟 ARKTIK Events | Premium Gatherings & High-End Experiences**  
+### **ARKTIK Events | Premium Gatherings & High-End Experiences**  
 ✔ **Exclusive Faith-Based & High-Value Social Events** – Galas, banquets, and networking functions.  
 ✔ **Professional & Skill-Building Conferences** – Executive training, leadership workshops, and certification events.  
 ✔ **Entertainment & Lifestyle Experiences** – Concerts, tournaments, immersive roleplay, and premium social gatherings.  

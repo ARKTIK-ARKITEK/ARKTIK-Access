@@ -83,5 +83,5 @@ For further information and technical guidance, explore the following:
 
 This guide is part of the **ARKTIK Homeowner Education Initiative**, ensuring access to sustainable, self-sufficient living strategies.
 
-**© [Year] ARKTIK. All Rights Reserved.**  
+**© 2025 ARKTIK. All Rights Reserved.**  
 **Protected under the ARKTIK Hybrid License.**

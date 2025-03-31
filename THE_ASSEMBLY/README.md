@@ -37,9 +37,31 @@ THE ASSEMBLY contains comprehensive resources structured for clarity and ease of
 - `03_daily_alignment_code.md`: Practical guidelines for daily spiritual alignment.
 - `04_stewardship_domains.md`: Defined roles and responsibilities within the community.
 - `05_the_language_of_the_assembly.md`: Shared vocabulary and terms for unified communication.
-- **ancient-prayers/**: Timeless prayers for reflection and spiritual centering.
-- **language-study/**: Resources for learning sacred languages integral to deeper scriptural understanding.
-- **washing-instruction/**: Clear instructions on purification rituals, their meanings, and significance.
+
+### Expanded Directories:
+
+- **ancient-prayers/**
+  - Traditional blessings and prayers in Hebrew, English, and Amharic (side-by-side translations).
+  - Includes morning blessings, washing prayers, food blessings, and more.
+
+- **scripture-study/**
+  - Guidance for studying Torah, Prophets, and Psalms without commentary, focused on clarity and navigation.
+  - Instructions for reading the weekly parashah and navigating the Tanakh.
+  - Optional elevation resources including the Book of Enoch.
+
+- **washing-instruction/**
+  - Detailed instructions on properly washing hands and feet.
+  - Biblical citations (Exodus 30), explanations of purpose and frequency.
+  - Blessings, visual diagrams, and downloadable formats.
+
+- **sabbath-practice/**
+  - Comprehensive preparation guide for Sabbath.
+  - Explanation of what true rest entails.
+  - Guidance on Sabbath meals, boundaries, and the spiritual beauty of pausing with THE ONE.
+
+- **clean-living-guides/**
+  - Guidance on modesty, music choices, dietary habits, and social behavior.
+  - Intended as pathways of return, not restrictive rules.
 
 ---
 
@@ -50,7 +72,7 @@ To begin your journey with THE ASSEMBLY:
 1. **Read the Preamble** (`01_the_assembly_preamble.md`) to grasp foundational principles.
 2. **Adopt Daily Practices** outlined in (`03_daily_alignment_code.md`) to cultivate discipline.
 3. **Identify Your Path** using the member structure in (`02_member_tiers_and_progression.md`).
-4. **Engage with Resources** in the `ancient-prayers` and `language-study` directories to deepen your understanding.
+4. **Engage with Resources** in the expanded directories to deepen your understanding and practice.
 
 ---
 

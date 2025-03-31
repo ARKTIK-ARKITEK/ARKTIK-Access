@@ -20,9 +20,27 @@ Genesis 1 describes the beginning of all creation. GOD speaks the universe into 
 
 ---
 
+## Hebrew Root Words & Script
+
+| Hebrew | Transliteration | Meaning |
+|--------|-----------------|---------|
+| בְּרֵאשִׁית | *Bereshit*       | In the beginning |
+| אֱלֹהִים   | *Elohim*         | GOD (Mighty Ones, Supreme Judge) |
+| בָּרָא     | *Bara*            | He created (ex nihilo – from nothing) |
+| אוֹר       | *Or*              | Light |
+| מַיִם     | *Mayim*          | Waters |
+| שָׁמַיִם   | *Shamayim*       | Heavens |
+| אָדָם     | *Adam*           | Man / Mankind |
+| צֶלֶם     | *Tzelem*         | Image / Likeness |
+| רוּחַ     | *Ruach*          | Spirit / Wind / Breath |
+
+These root words are foundational to understanding the spiritual structure and meaning behind the creation account.
+
+---
+
 ## Reflection & Notes
 
-- What does it mean to be created in GOD’s image?
+- What does it mean to be created in GOD’s image (*Tzelem Elohim*)?
 - Why was each stage of creation called "good"—and what does that imply about order and purpose?
 - Consider the structure: light before sun, division before form, rest after fullness. How does this mirror divine intentionality?
 
@@ -32,7 +50,7 @@ Genesis 1 describes the beginning of all creation. GOD speaks the universe into 
 
 This file will eventually support:
 - **Verse-by-verse breakdowns**
-- **Hebrew vocabulary sections**
+- **Expanded Hebrew vocabulary sections**
 - **Connections to other texts (Tanakh, Prophets, Writings)**
 
 ---
@@ -42,4 +60,6 @@ This file will eventually support:
 ---
 
 > “In the beginning, GOD created the heavens and the earth...” (Genesis 1:1)
+
+בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָרֶץ
 

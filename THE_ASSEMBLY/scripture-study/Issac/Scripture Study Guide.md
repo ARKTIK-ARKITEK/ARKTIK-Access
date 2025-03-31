@@ -20,6 +20,14 @@ Welcome to the Issac Scripture Study Guide. This guide is dedicated exclusively 
 
 ## Navigating the Tanakh
 
+This directory includes the following subdirectories for focused study:
+
+- **Torah/** – For exploration of Genesis through Deuteronomy.
+- **Prophets/** – For texts spanning from Joshua through Malachi.
+- **Writings/** – For poetic, philosophical, and historical books like Psalms, Proverbs, and Chronicles.
+
+Each subdirectory may contain chapter-by-chapter breakdowns, guided study formats, and contextual references rooted in Scripture.
+
 ### Overview
 
 - **Torah (Teachings)**:

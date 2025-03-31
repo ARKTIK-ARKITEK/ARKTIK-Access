@@ -6,7 +6,7 @@
 
 ## Chapter Summary
 
-Genesis 12 marks the beginning of the Abrahamic covenant and the divine calling of Abram to leave his homeland. This chapter outlines promises from GOD, Abram’s initial acts of faith, and challenges in Egypt.
+Genesis 12 marks the beginning of the Abrahamic covenant and the divine calling of Abram to leave his homeland. This chapter outlines promises from GOD, Abram’s initial acts of faith, and a morally complex episode in Egypt.
 
 ### Key Themes & Events:
 
@@ -15,8 +15,9 @@ Genesis 12 marks the beginning of the Abrahamic covenant and the divine calling 
 - **Abram’s Journey:** Abram departs from Haran at age 75 with Sarai and Lot, traveling to Canaan.
 - **Land of Promise:** GOD appears and promises the land to Abram’s descendants.
 - **Altar Building:** Abram builds altars in Shechem and Bethel, worshiping GOD.
-- **Famine and Egypt:** Due to famine, Abram goes to Egypt and asks Sarai to pose as his sister.
-- **Plague and Deliverance:** Pharaoh takes Sarai, but GOD afflicts Pharaoh’s house; Sarai is returned, and Abram is sent away with wealth.
+- **Famine and Egypt:** Due to famine, Abram goes to Egypt. Out of fear, Abram lies and convinces Sarai to present herself as his sister.
+- **Pharaoh’s Integrity Compromised:** Pharaoh, acting in good faith under false pretenses, takes Sarai into his house.
+- **Divine Correction:** GOD afflicts Pharaoh’s house with plagues. Pharaoh confronts Abram, corrects the matter, and sends him away with Sarai and their possessions.
 
 ---
 
@@ -39,18 +40,18 @@ Genesis 12 marks the beginning of the Abrahamic covenant and the divine calling 
 ## Clarification & Insight
 
 - **“Lech Lecha”** is not only a command but an invitation to discover identity and destiny.
-- **Abram’s faith** begins with obedience, not full understanding. This is the model for covenantal trust.
-- **Sarai’s identity** is concealed not for deception but for protection—showing the fragile balance between faith and strategy.
-- **The blessing of nations** is rooted in alignment with GOD’s chosen servant.
+- **Abram’s fear leads to deception**, convincing Sarai to withhold the truth and expose Pharaoh to unintended sin.
+- **Pharaoh was tricked**, and though he acted innocently based on misinformation, **he still suffered consequences** for violating divine order.
+- **GOD intervened** to restore Sarai and correct the situation, underscoring the importance of truth and order in covenant interactions.
 
 ---
 
 ## Reflection & Notes
 
-- How does Abram’s departure from his homeland mirror spiritual migration?
-- What can we learn from the tension between promise (Canaan) and problem (famine)?
-- Why does GOD use affliction in Egypt to protect Sarai?
-- How does this chapter foreshadow the exodus narrative?
+- How does Abram’s fear challenge his faith?
+- What are the consequences of half-truths when they intersect with divine plans?
+- How does Pharaoh’s integrity—even after being deceived—contrast with Abram’s?
+- What does this teach us about GOD’s protection of covenantal vessels, even when leaders fail?
 
 ---
 
@@ -59,6 +60,7 @@ Genesis 12 marks the beginning of the Abrahamic covenant and the divine calling 
 - **Verse-by-verse breakdowns**
 - **The seven elements of the Abrahamic blessing**
 - **The motif of land, seed, and blessing in Torah**
+- **Faith vs. fear-driven decisions among covenant figures**
 
 ---
 

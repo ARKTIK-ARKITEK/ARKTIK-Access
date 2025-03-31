@@ -20,6 +20,20 @@ THE ASSEMBLY is neither a movement nor a reactionary collective. It is a careful
 
 ---
 
+## Clear Statement of Alignment and Standards
+
+**THE ASSEMBLY** operates strictly according to the explicit teachings and commands outlined by GOD in the Scriptures. Our commitment to transparency requires clarity regarding our partnerships and affiliations:
+
+- **No partnerships or affiliations** with any organizations or entities whose activities, missions, or values conflict with the explicit and historical positions outlined by GOD in Scripture.
+- **Uncompromising adherence** to biblical teachings that affirm GOD’s unchanging nature (Malachi 3:6) and unwavering truthfulness (Numbers 23:19).
+- Recognition of historical judgments, such as the destruction of Sodom (Genesis 19:24-25), as foundational examples underscoring GOD’s explicit stance against certain practices.
+
+While our platform is respectful, welcoming, and family-friendly, we do not accommodate, support, or endorse practices or organizations explicitly condemned by Scripture—regardless of cultural popularity or nuanced interpretation.
+
+This transparency ensures our community maintains alignment with THE ONE, promoting clarity, peace, and spiritual integrity, thereby preventing confusion that could lead to conflict.
+
+---
+
 ## What THE ASSEMBLY Provides
 
 - **Structured Daily Alignment:** Practices designed to foster spiritual discipline and clarity.

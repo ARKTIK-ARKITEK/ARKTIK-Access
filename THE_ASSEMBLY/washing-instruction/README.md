@@ -1,103 +1,46 @@
-# washing-instruction  
-**Hands and Feet Before Prayer or Sacred Work**
 
-> “So they shall wash their hands and their feet, so that they do not die; and it shall be a statute forever to them...”  
-> — Shemot (Exodus) 30:21
-
----
-
-## Why We Wash
-
-Before devotion. Before study. Before sacred acts.  
-We return to the pattern given to Moshe.
-
-We wash not to impress or perform,  
-but to prepare—clean hands, clean steps, clean purpose.
-
-In a world that rushes past reverence,  
-we stop.  
-We cleanse.  
-We remember.
+# Washing Instruction | THE ASSEMBLY  
+**“Clean Hands. Clean Walk. Clear Conscience.”**  
+*Subfolder: sabbath-practice/washing-instruction/*  
+*Language, Law & Legacy Division*
 
 ---
 
-## What You’ll Need
+## Purpose
 
-- **Clean water**  
-- **Fresh lemon** (if available)  
-- **A small basin, cup, or pitcher**  
-- **A clean towel**
-
-> If lemon is available, squeeze a small amount into the water.  
-> This naturally alkalinizes it, killing surface microbes, calming the spirit, and aligning the body with clean intention.
+This section provides instruction on the **ritual washing of hands and feet**, restoring ancient practices with modern clarity and spiritual intent.  
+Cleanliness is not only physical—it reflects **readiness, humility, and reverence** before THE ONE.
 
 ---
 
-## When to Wash
+## Folder Structure
 
-- Before your **morning alignment**  
-- Before prayer, reading, or handling sacred items  
-- Before each of the **three daily alignment points** (morning, midday, evening)  
-- Before entering Shabbat or preparing for feasts
-
----
-
-## How to Wash
-
-1. **Prepare your water** (add lemon if available)  
-2. Pour water over your **right hand** three times  
-3. Pour water over your **left hand** three times  
-4. If able, do the same for your **feet**, starting with the right  
-5. **Remain silent** throughout the act—this is sacred space  
-6. Dry with a clean towel  
-7. Recite the blessing below
+```
+washing-instruction/
+├── Washing_Hands_Properly.md              ← Step-by-step handwashing guide
+├── Washing_Feet_Properly.md               ← Step-by-step footwashing guide
+├── Washing_Scripture_and_Purpose.md       ← Biblical foundation and explanations
+├── Washing_Blessings.md                   ← Blessings in Hebrew, English, and Amharic
+├── Visual_Diagrams.pdf                    ← Simple printable visual references
+```
 
 ---
 
-## The Blessing for Hand Washing (Netilat Yadayim)
+## Key References
 
-### **Hebrew**
-בָּרוּךְ אַתָּה יְיָ אֱלֹהֵינוּ מֶלֶךְ הָעוֹלָם,  
-אֲשֶׁר קִדְּשָׁנוּ בְּמִצְוֹתָיו  
-וְצִוָּנוּ עַל נְטִילַת יָדַיִם
-
----
-
-### **English**
-Blessed are You, LORD our God, King of the universe,  
-who has sanctified us with His commandments  
-and commanded us concerning the washing of hands.
+- **Exodus 30:17–21** — Command to wash before approaching sacred service  
+- **John 13:5–10** — Yeshua washing His disciples’ feet  
+- **Psalm 24:3–4** — “Clean hands and a pure heart…”
 
 ---
 
-### **Amharic (Geʽez Script)**
-ባሩክ አታ አዶናይ እግዚአብሔር አምላኬን፣  
-የዓለም ንጉሥ፣  
-በትእዛዙ የቀደሰን  
-እና ስለ እጅ ምትራመድ ያዘነን።
+## Highlights
+
+- Reinforces spiritual readiness before prayer, study, or Sabbath  
+- Provides exact steps and proper frequency  
+- Family-friendly and printable for daily home use
 
 ---
 
-### **Amharic (Transliteration)**
-Baruku āta Adonay Ēgziabhērēni,  
-melikami hā’olami,  
-āsheri kidəshānū bämitsiwotiw  
-ināwets’anani bēnetilāti yadayimi.
-
----
-
-## Remember This
-
-This is not a ritual to perform.  
-It is a rhythm to return to.
-
-It is how we remind the body that something holy is happening.  
-It is how we mark the moment—clean in spirit, clean in hands.
-
-If it feels unfamiliar, that’s okay.  
-You’re not late. You’re home.
-
----
-
-**Welcome to The Assembly.  
-You are already being made new.**
+**Maintained by:**  
+**THE ASSEMBLY | Language, Law & Legacy Division**

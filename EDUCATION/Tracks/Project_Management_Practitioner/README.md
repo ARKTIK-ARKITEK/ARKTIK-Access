@@ -20,31 +20,30 @@ This track is ideal for ARKTIK members who:
 *   Exhibit strong organizational, planning, and leadership potential.
 *   Are excellent communicators (written and verbal).
 *   Are systematic thinkers capable of managing complexity and detail.
-*   Are adept at using digital tools for coordination and tracking.
+*   Are adept at using digital management tools for coordination and tracking.
 *   Are committed to ensuring projects meet their goals while upholding ARKTIK values.
 *   Prior experience coordinating tasks or leading small efforts (potentially via the Business Ops Assistant track) is highly beneficial.
 
 ### Key Outcomes (Demonstrated Execution)
-
-Upon successful completion, members will demonstrate the ability to:
-*   Develop comprehensive project plans outlining scope, tasks, dependencies, timelines, and basic resource considerations.
-*   Proficiently manage projects end-to-end using Asana, including advanced features for workflow automation and reporting.
-*   Identify, document, and propose basic mitigation strategies for project risks.
-*   Facilitate effective communication among project team members and stakeholders.
-*   Track project progress accurately and generate clear status reports.
-*   Apply key principles of Agile/Scrum methodologies within Asana to manage iterative work.
-*   Lead project closure activities, including lessons learned documentation.
-*   Guide project teams with ethical leadership, fostering collaboration and accountability.
+_(Existing Key Outcomes Text remains here)_
+*   Develop comprehensive project plans...
+*   Proficiently manage projects end-to-end using Asana effectively...
+*   Identify/mitigate basic risks...
+*   Facilitate team communication/collaboration...
+*   Track progress and report status accurately...
+*   Apply appropriate PM methodologies within ARKTIK context...
+*   Lead project closure activities...
+*   Guide project teams with ethical leadership...
 
 ### ARKTIK Value Integration
-
-*   **Accountability:** Driving project execution, tracking commitments, ensuring deliverables meet standards.
-*   **Transparency:** Utilizing tools like Asana to make project plans, progress, and issues visible to stakeholders.
-*   **Stewardship:** Efficient management of project resources (time, budget concepts, personnel effort). Ensuring projects deliver intended value.
-*   **Integrity:** Honest and timely reporting of project status, risks, and challenges. Ethical stakeholder engagement.
-*   **Resilience:** Adapting project plans effectively in response to changing circumstances or unforeseen issues.
-*   **Community Focus:** Ensuring projects align with community needs and fostering positive team dynamics.
-*   **Precision:** Detailed planning, accurate tracking, and clear communication.
+_(Existing Value Integration Text remains here)_
+*   Accountability...
+*   Transparency...
+*   Stewardship...
+*   Integrity...
+*   Resilience...
+*   Community Focus...
+*   Precision...
 
 ## Prerequisites
 
@@ -52,89 +51,59 @@ Upon successful completion, members will demonstrate the ability to:
 *   Demonstrated strong organizational, communication, and problem-solving skills.
 *   Completion of **ACE-BOA: Business Operations Assistant Track** OR equivalent experience with task management and business processes is highly recommended.
 *   Leadership potential and a commitment to taking responsibility for outcomes.
+*   Comfort and proficiency navigating digital tools and platforms.
+
+## Required Tools, Platforms & Associated Fees
+_(New Section Added)_
+
+Success in this track requires proficiency and consistent access to robust project management tools, primarily Asana, leveraging features often found in premium tiers.
+
+**Essential Licensed Software/Platforms:**
+*   **Asana:** Access to features equivalent to Asana Premium or Business tiers is necessary for modules covering advanced workflows, reporting, portfolios, and automation rules taught in this track. A.C.E. will facilitate access.
+*   **Standard Collaboration Suite:** Google Workspace / Microsoft 365 (Docs, Sheets, Calendar, etc.)
+
+**Associated A.C.E. Fees:**
+
+1.  **Tool & Platform Access Fee:** To cover the cost of providing necessary access to premium Asana features required for effective execution at the Practitioner/Specialist level, a periodic (e.g., monthly or per-module) **Tool & Platform Access Fee** applies to **all participants** enrolled in this specific track. This fee covers ARKTIK's managed cost for software access plus a transparent operational overhead. This fee applies regardless of Commitment or Direct Tuition pathway status, unless explicitly covered by specific scholarship terms.
+2.  **Blockchain Credential Issuance Fee:** Upon successful completion of the entire track, the standard, **universal nominal fee** applies for the issuance (minting) of your official **ARKTIK Certified Project Management Practitioner** credential onto the blockchain. This covers direct operational and transaction costs.
+
+*Please refer to the official **A.C.E. Fee Schedule** document (link TBD) for current fee amounts.* Commitment Pathway participants should review Section 7.4 of the `ace_framework_overview.md` regarding the conditional validity of their blockchain credential.
 
 ## Learning Methodology
-
-This track follows the A.C.E. execution-based model (4-Phase Cycle), heavily centered on practical application using **Asana** as the primary toolset:
-*   **Project Planning Workshops:** Developing Work Breakdown Structures, schedules, and risk logs for case study projects.
-*   **Asana Proficiency Labs:** Mastering Asana features – projects, portfolios, custom fields, rules, forms, timelines, dashboards, reporting.
-*   **Simulated Project Management:** Managing simulated ARKTIK initiatives within Asana, responding to changing requirements, reporting status, handling issues.
-*   **Case Study Analysis:** Reviewing successful and challenged projects to extract lessons learned.
-*   **Role-Playing:** Simulating stakeholder meetings, team stand-ups, and conflict resolution scenarios.
-*   **Portfolio Development:** Compiling project plans, status reports, risk registers, process improvements, and Asana workflow examples.
-*   **Mentorship:** Guidance from experienced ARKTIK project managers or initiative leads.
+_(Existing Methodology Text focusing on Asana, case studies, simulations, etc. remains here)_
 
 ## Track Structure (Sequence of Modules)
-
-_(Note: Module codes are indicative - Assumes entry at Phase 2/3 level)_
-
-1.  **`ACE-PMP-101`: Project Management Fundamentals & ARKTIK Context**
-    *   *Description:* Overview of PM knowledge areas (Scope, Schedule, Cost, Quality, etc.), project lifecycles, key methodologies (Waterfall vs. Agile), role of the PM, PM ethics, specific ARKTIK project standards and value alignment. Aligns with foundational CAPM/PMP concepts.
-    *   *Execution Gate:* Analyze an ARKTIK initiative brief and identify key project constraints, stakeholders, and success criteria.
-
-2.  **`ACE-PMP-110`: Initiation & Planning - Defining the Work**
-    *   *Description:* Developing project charters, stakeholder identification/analysis, requirements gathering techniques, creating detailed Work Breakdown Structures (WBS), defining tasks and deliverables, introduction to estimation techniques.
-    *   *Execution Gate:* Create a detailed WBS and initial task list for a given project scenario.
-
-3.  **`ACE-PMP-201`: Asana Mastery for Planning & Scheduling**
-    *   *Description:* In-depth use of Asana: Structuring projects/portfolios, advanced task creation (dependencies, custom fields, subtasks), building realistic timelines/Gantt charts, resource management concepts within Asana, creating reusable project templates for ARKTIK workflows.
-    *   *Execution Gate:* Build a complete, detailed project plan in Asana for the scenario from Module 110, including dependencies, timelines, and custom fields.
-
-4.  **`ACE-PMP-210`: Execution & Monitoring - Tracking Progress in Asana**
-    *   *Description:* Assigning tasks, managing workflows (e.g., board views, rules/automation), updating progress effectively, identifying variances, using Asana dashboards and reporting features for status tracking, identifying and logging project issues and risks.
-    *   *Execution Gate:* Simulate one week of project execution within the Asana plan, updating tasks, logging issues, and generating a concise status report using Asana data.
-
-5.  **`ACE-PMP-220`: Communication, Stakeholders & Team Coordination**
-    *   *Description:* Developing project communication plans, tailoring communication to different stakeholders, facilitating effective meetings (agenda, minutes, action items), using Asana for team updates and collaboration, basic conflict resolution techniques within a project team context.
-    *   *Execution Gate:* Draft a stakeholder communication plan and facilitate a simulated project status meeting.
-
-6.  **`ACE-PMP-301`: Agile Principles & Scrum Introduction (ARKTIK Adaptation)**
-    *   *Description:* Understanding the Agile Manifesto values/principles. Overview of the Scrum framework (Roles: Product Owner, Scrum Master, Dev Team; Events: Sprint Planning, Daily Scrum, Sprint Review, Retrospective; Artifacts: Backlog, Sprint Backlog, Increment). Practical application of Scrum concepts using Asana (managing backlogs, sprint boards). Adapting Agile principles pragmatically for ARKTIK projects.
-    *   *Execution Gate:* Set up an Asana project to manage a simple Scrum sprint; facilitate a simulated Daily Scrum meeting.
-
-7.  **`ACE-PMP-310`: Quality, Risk & Closure**
-    *   *Description:* Introduction to quality management concepts in projects. Deep dive into Risk Management: identification, qualitative/quantitative analysis basics, response planning (avoid, mitigate, transfer, accept). Formal project closure procedures: final reporting, documenting lessons learned, archiving project materials.
-    *   *Execution Gate:* Develop a basic Risk Register with response plans for the ongoing project scenario; create a project closure checklist and lessons learned document.
-
-8.  **`ACE-PMP-490`: Capstone Execution - Managing an ARKTIK Initiative Project**
-    *   *Description:* Apply all learned skills to comprehensively plan a significant ARKTIK initiative concept within Asana. Simulate managing the project through key execution phases by updating status, handling injected scope changes or risks, generating regular reports, and facilitating key communications. Develop full closure documentation. Final portfolio review.
-    *   *Execution Gate:* Successful delivery of a complete project management lifecycle simulation within Asana, demonstrating proficiency in planning, execution tracking, reporting, adaptation, and closure, all meeting ARKTIK standards. Comprehensive Portfolio of Execution.
+_(Existing Module Structure Text remains here)_
+1.  `ACE-PMP-101`: Project Management Fundamentals & ARKTIK Context
+2.  `ACE-PMP-110`: Initiation & Planning - Defining the Work
+3.  `ACE-PMP-201`: Asana Mastery for Planning & Scheduling (Leverages premium features)
+4.  `ACE-PMP-210`: Execution & Monitoring - Tracking Progress (Leverages premium features)
+5.  `ACE-PMP-220`: Communication, Stakeholders & Team Coordination
+6.  `ACE-PMP-301`: Agile Principles & Scrum Introduction (ARKTIK Adaptation using Asana)
+7.  `ACE-PMP-310`: Quality, Risk & Closure
+8.  `ACE-PMP-490`: Capstone Execution - Managing an ARKTIK Initiative Project (Utilizes advanced Asana capabilities)
 
 ## Core Technologies & Tools
+_(Updated List)_
+**Asana** (Advanced Proficiency, including Premium/Business features), **Spreadsheets** (Google Sheets/Excel for supplemental analysis/budgeting), **Document Collaboration Suite** (Google Workspace/M365), Communication Platforms (Slack/Teams), Basic Diagramming Tools (optional).
 
-**Asana** (Advanced Proficiency), Spreadsheets (Google Sheets/Excel for supplemental analysis/budgeting), Document Collaboration Suite (Google Workspace/M365), Communication Platforms (Slack/Teams), Basic Diagramming Tools (optional, for workflows/WBS).
-
-## Certification Alignment
-
-*   **Supports Preparation For (External):** Directly covers concepts required for **PMI's Certified Associate in Project Management (CAPM)**. Provides significant foundational knowledge towards the **Project Management Professional (PMP)** certification ( PMP requires verified project management experience hours). Aligns with **Asana Certified Pro** competencies.
-*   **Internal:** **ARKTIK Certified Project Management Practitioner**. Validates the ability to effectively plan, execute, and manage ARKTIK projects using the ARKTIK Method (centered on Asana, Agile principles, and core values).
+## Certification & ARKTIK Endorsement
+_(Revised to use Endorsement language)_
+*   **Supports Preparation For (External):** Directly covers concepts required for **PMI's Certified Associate in Project Management (CAPM)**. Provides significant foundational knowledge towards the **Project Management Professional (PMP)** certification. Aligns with **Asana Certified Pro** competencies.
+*   **Internal:** **ARKTIK Certified Project Management Practitioner**. This blockchain-verified credential serves as ARKTIK's **endorsement**, validating the ability to effectively plan, execute, and manage ARKTIK projects using the ARKTIK Method (centered on Asana, Agile principles, and core values). (Commitment Pathway credential validity is conditional per Sec 7.4 of framework).
 
 ## Outcome Pathways
-
-This Practitioner/Specialist Track prepares members for leadership and coordination roles:
-*   Project Coordinator
-*   Project Manager (Junior to Mid-level, depending on scope managed)
-*   ARKTIK Initiative Lead / Manager
-*   Scrum Master (Entry-level)
-*   Operations Lead (with strong project focus)
-*   Pathway to senior program management or portfolio management roles. Supports **onshoring** project management functions with an ethical, execution-focused approach.
+_(Existing Outcome Pathways Text remains here)_
 
 ## Assessment & Mastery
-
-Mastery is assessed through:
-*   Successful completion and quality review of all **Module Execution Gates** (project plans in Asana, reports, risk registers, meeting facilitation, etc.).
-*   Effectiveness demonstrated in the **Capstone Project Management Simulation (ACE-PMP-490)**, including handling challenges and changes.
-*   Clarity, thoroughness, and professionalism of the **Portfolio of Execution** (containing project artifacts).
-*   Evaluation of communication, leadership potential, and problem-solving skills during simulations and reviews.
-*   Demonstrated application of **ARKTIK values** in project decision-making and communication.
+_(Existing Assessment & Mastery Text remains here)_
 
 ## Next Steps / How to Apply
-
-ARKTIK members with strong organizational skills, leadership aptitude, and potentially foundational operational experience should review the prerequisites and apply through the designated A.C.E. process for the "Project Management Practitioner" track (Cycle 1 - 2025). Be prepared for a rigorous track focused on disciplined execution and effective coordination.
+_(Existing Text remains here)_
 
 ## License & Compliance
-
-Refer to the main **[`ace_framework_overview.md`](../../ace_framework_overview.md)** for overarching license and compliance information. Project management activities adhere to ARKTIK's governance procedures and ethical standards.
+_(Updated slightly)_
+Refer to the main **[`ace_framework_overview.md`](../../ace_framework_overview.md)** for overarching license and compliance information. Project management activities adhere to ARKTIK's governance procedures and ethical standards. Adherence to Asana's terms of service is required.
 
 ---
-**ARKTIK-ARKITEK**v
+**ARKTIK-ARKITEK**

@@ -1,12 +1,10 @@
 # ARKTIK Curriculum for Education (A.C.E.)
 
-Welcome to the central repository for the **ARKTIK Curriculum for Education (A.C.E.)** within the `ARKTIK-Access` ecosystem. This directory contains the blueprint and materials for our unique educational framework.
+Welcome to the central hub for the **ARKTIK Curriculum for Education (A.C.E.)** within the `ARKTIK-Access` repository. This directory contains the blueprint and materials for ARKTIK's unique educational framework, designed to cultivate skilled stewards for resilient communities.
 
-## Vision: Cultivating Skilled Stewards for Resilient Communities
+## Vision & Purpose
 
-A.C.E. is ARKTIK's **execution-based, faith-driven education framework**, meticulously crafted to build **practical mastery, real-world competency, ethical character, and self-sufficiency**. We provide **accessible pathways** for individuals from diverse backgrounds to become skilled, principled contributors.
-
-Our core mission through A.C.E. is to **regenerate essential skilled work domestically**, creating pathways to fulfilling careers and community-focused entrepreneurship that strengthen local resilience and align with **THE ETERNAL ONE**. We build skilled stewards first locally, establishing a replicable model for global community empowerment.
+A.C.E. is ARKTIK's **execution-based, faith-driven education framework**, meticulously crafted to build **practical mastery, verifiable real-world competency, unwavering ethical character, and sustainable self-sufficiency**. We provide **accessible pathways** for individuals from diverse backgrounds to become highly skilled, principled contributors, focusing primarily on **regenerating essential skilled work domestically** to strengthen local communities and reduce dependence on fragile global systems, all in alignment with **THE ETERNAL ONE**.
 
 **Motto:** _Learn by Doing. Master by Serving. Lead by Example._
 
@@ -16,34 +14,34 @@ This `/EDUCATION` directory serves as the definitive source for all documentatio
 
 ## The A.C.E. Framework: An Overview
 
-A.C.E. is founded on core principles including **Mastery Through Execution**, **Faith-Driven Accountability**, **Accessible Pathways**, **Career & Community Readiness**, **Holistic Integration**, and **Strategic Skill Development**. Learning is active, progress is measured by demonstrated high-quality execution, and all activities are infused with ARKTIK's values. For a complete understanding of the philosophy and operational model, please refer to the primary framework document linked below.
+A.C.E. operates on core principles including **Mastery Through Execution**, **Faith-Driven Accountability & Ethical Leadership**, **Accessible Pathways**, **Career & Community Readiness**, **Holistic Integration**, and **Strategic Skill Development**. Learning is active, progress is measured by demonstrated high-quality execution, and all activities are infused with ARKTIK's values. For a complete understanding of the philosophy and operational model, please refer to the primary framework document linked below.
 
 ## Navigating A.C.E.: Structure & Content
 
-A.C.E. employs a structured yet flexible multi-tiered approach. Understanding this structure is key to navigating the materials:
+A.C.E. employs a structured yet flexible multi-tiered approach, organized as follows:
 
-1.  **Phased Journey:** Learning progresses through distinct phases, starting with **Phase 0 (ARKTIK Foundations & Digital Readiness)** ensuring all participants share core values and basic skills, moving through **Phase 1 (Foundational Skills Tracks)** offering pathways to essential job roles, **Phase 2 (Practitioner Development Modules)** for deepening expertise, **Phase 3 (Integrated Application & Specialization)** for synthesizing skills on complex projects, and culminating in **Phase 4 (Capstone Execution & Contribution)**.
-2.  **Hierarchy:** The curriculum content is organized within this repository as follows:
-    *   **[`ace_framework_overview.md`](./ace_framework_overview.md):** **The definitive blueprint.** Provides the full detail on A.C.E.'s vision, principles, multi-phased structure, integrated components, validation methods, and outcomes. **Essential reading for a complete understanding.**
-    *   **[`Pathways/`](./Pathways/):** Describes the broad, mission-aligned strategic areas within ARKTIK (e.g., Design & Development, Sustainable Resources) that A.C.E. supports. Provides context for the Tracks.
-    *   **[`Tracks/`](./Tracks/):** Contains the detailed curricula for specific A.C.E. programs. This includes both:
-        *   **Foundational Tracks:** Focused programs designed to build core competencies for specific, often onshorable, job roles (e.g., IT Support Technician, Business Ops Assistant). Ideal entry points after Phase 0.
-        *   **Practitioner/Specialist Tracks:** More advanced programs (like Systems Steward - Rust) often built from sequences of Practitioner Development Modules, requiring prerequisites and leading to deeper expertise or hybrid roles. **Browse this directory to find specific learning programs.**
-    *   **[`Resources/`](./Resources/):** Shared assets applicable across multiple tracks, such as glossaries, style guides, templates, and general tooling guides.
-    *   **[`Certifications/`](./Certifications/):** Information regarding alignment with industry certifications and details about internal ARKTIK certifications earned through demonstrated execution.
-    *   **[`Portfolios/`](./Portfolios/):** Guidelines, requirements, and examples related to building the mandatory **Portfolio of Execution**, the primary evidence of mastery within A.C.E.
+1.  **Phased Journey:** Learning progresses through distinct phases, starting with **Phase 0 (Foundations & Readiness)**, moving through **Phase 1 (Foundational Skills Tracks)**, **Phase 2/3 (Practitioner/Specialist Development Modules & Tracks)**, **Phase 3/4 (Integrated Application & Specialization)**, and culminating in **Phase 4 (Capstone Execution & Contribution)**.
+2.  **Hierarchy & Key Locations:**
+    *   **[`ace_framework_overview.md`](./ace_framework_overview.md):** **The definitive blueprint.** Provides full detail on A.C.E.'s vision, principles, phases, structure, integrated components, validation methods, and outcomes. **Essential reading for a complete understanding.**
+    *   **[`Pathways/`](./Pathways/):** Describes the broad, mission-aligned strategic areas within ARKTIK (e.g., Design & Development, Sustainable Resources, Communications & Media, Business & Operational Excellence, etc.) that A.C.E. supports. Provides strategic context.
+    *   **[`Tracks/`](./Tracks/):** The central catalog detailing all comprehensive A.C.E. learning programs, ranging from **Foundational Tracks** (providing accessible entry points to essential roles) to advanced **Practitioner/Specialist Tracks** (cultivating deep expertise). **Browse this directory to find specific learning programs.**
+    *   **[`Workforce_Programs/`](./Workforce_Programs/):** Outlines for intensive, focused **Certificate Programs** specifically designed for upskilling partnerships (e.g., with Texas Workforce Development agencies), often utilizing curated A.C.E. modules.
+    *   **[`Resources/`](./Resources/):** Shared assets applicable across multiple tracks, such as glossaries, templates, style guides, and general tooling guides.
+    *   **[`Certifications/`](./Certifications/):** Information on alignment with industry certifications and details about internal ARKTIK certifications earned through demonstrated execution.
+    *   **[`Portfolios/`](./Portfolios/):** Guidelines and requirements for building the mandatory **Portfolio of Execution**, the primary evidence of mastery within A.C.E.
 
 ## Getting Started with A.C.E.
 
 To effectively engage with the A.C.E. materials:
 
-1.  **Study the Blueprint:** Thoroughly read the **[`ace_framework_overview.md`](./ace_framework_overview.md)** to grasp the complete vision, principles, and operational model.
-2.  **Understand Strategic Context:** Explore the `README.md` files within the **[`Pathways/`](./Pathways/)** directory to see how different skill areas align with ARKTIK's broader mission.
-3.  **Explore Learning Programs:** Navigate the **[`Tracks/`](./Tracks/)** directory. Review the `README.md` for the section and then explore specific Track overviews (`[TrackName]/README.md`) to identify foundational or advanced programs that fit your goals and ARKTIK's needs. Pay attention to prerequisites listed within each Track overview.
+1.  **Study the Blueprint:** Thoroughly read the **[`ace_framework_overview.md`](./ace_framework_overview.md)**.
+2.  **Understand Strategic Context:** Explore the `README.md` files within the **[`Pathways/`](./Pathways/)** directory.
+3.  **Explore Learning Programs:** Navigate the **[`Tracks/`](./Tracks/)** directory and its main `README.md` catalog to identify Foundational or Practitioner/Specialist Tracks that align with your goals and ARKTIK's needs. Review individual Track `README.md` files for details and prerequisites.
+4.  **Consider Workforce Options:** If engaging via a partner agency, review the programs listed within the **[`Workforce_Programs/`](./Workforce_Programs/)** directory.
 
 ## Contributing to A.C.E.
 
-Development and refinement of A.C.E. is an ongoing process reflecting our value of Strategic Adaptability. Guidelines for contributing feedback or new materials can be found in `CONTRIBUTING.md` (link to be added if/when applicable).
+Development and refinement of A.C.E. is an ongoing process. Guidelines for contributing feedback or new materials can be found in `CONTRIBUTING.md` (link to be added if/when applicable at the appropriate repository level).
 
 ## Our Commitment
 

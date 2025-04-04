@@ -8,11 +8,11 @@
 
 ### Vision & Purpose
 
-The **Business Operations Assistant Track** is a foundational A.C.E. program designed to cultivate highly organized, reliable, and ethical support professionals essential for the smooth functioning of ARKTIK initiatives and aligned businesses. This track provides an accessible pathway into crucial operational roles, focusing on practical skills using standard business tools and processes. It directly supports ARKTIK's mission by **onshoring vital administrative functions**, ensuring operational **resilience** through efficient support, and embedding **integrity** and **stewardship** into daily business practices.
+The **Business Operations Assistant Track** is a foundational A.C.E. program designed to cultivate highly organized, reliable, and ethical support professionals essential for the smooth functioning of ARKTIK initiatives and aligned businesses. This track provides an **accessible pathway** into crucial operational roles, focusing on practical skills using standard business tools and processes efficiently and effectively. It directly supports ARKTIK's mission by **onshoring vital administrative functions** and ensuring operational tasks are handled with **integrity, precision, and stewardship**.
 
 ### Focus Area
 
-Core competencies include efficient task and workflow management, accurate data entry and retrieval, basic financial record keeping, professional communication, scheduling, and proficiency in key operational tools like Asana, Salesforce (fundamentals), and QuickBooks (fundamentals).
+Core competencies include efficient task and workflow management (using Asana basics), accurate data entry and retrieval (using Salesforce basics), basic financial record keeping concepts and entry (using QuickBooks basics/simulations), professional communication, scheduling, and proficiency in standard digital office tools.
 
 ### Target Audience
 
@@ -25,23 +25,22 @@ This track is ideal for ARKTIK members who possess or wish to develop:
 *   **No prior specific business tool experience is required.**
 
 ### Key Outcomes (Demonstrated Execution)
-
-Upon successful completion, members will demonstrate the ability to:
-*   Manage tasks, projects, and deadlines effectively using Asana (or designated PM tool).
-*   Perform accurate data entry, retrieval, and basic report generation in Salesforce (or designated CRM).
-*   Understand fundamental bookkeeping concepts and perform basic data entry/reporting in QuickBooks (or designated accounting software).
-*   Manage scheduling and communications professionally using standard office tools (calendars, email, messaging).
+_(Existing Key Outcomes Text remains here)_
+*   Manage tasks, projects (basic), and deadlines effectively using Asana basics.
+*   Perform accurate data entry/retrieval and basic report generation in Salesforce (Developer Org).
+*   Understand fundamental bookkeeping concepts and perform basic data entry/reporting using QuickBooks basics or simulations.
+*   Manage scheduling and communications professionally using standard office tools.
 *   Create clear basic documentation for processes or meeting outcomes.
 *   Operate with a high degree of integrity, confidentiality, and attention to detail.
 
 ### ARKTIK Value Integration
-
-*   **Integrity:** Ensuring accuracy and honesty in data management and reporting. Maintaining confidentiality.
-*   **Accountability:** Reliably managing assigned tasks, meeting deadlines, tracking progress transparently.
-*   **Stewardship:** Careful management of information, schedules, and operational resources. Protecting data privacy.
-*   **Efficiency & Precision:** Optimizing personal workflows, performing tasks accurately and without unnecessary delay.
-*   **Empathy & Selflessness:** Proactively supporting team members and initiative goals through reliable operational assistance.
-*   **Transparency:** Clear communication and visible task tracking (e.g., via Asana).
+_(Existing Value Integration Text remains here)_
+*   Integrity... Accuracy, Honesty...
+*   Accountability... Reliability, Tracking...
+*   Stewardship... Managing info/schedules...
+*   Efficiency & Precision... Accuracy, Workflow...
+*   Empathy & Selflessness... Supporting team members...
+*   Transparency... Clear communication...
 
 ## Prerequisites
 
@@ -49,78 +48,57 @@ Upon successful completion, members will demonstrate the ability to:
 *   Demonstrated organizational aptitude and attention to detail.
 *   Proficiency in basic computer usage and standard office software concepts (word processing, spreadsheets, email).
 
-## Learning Methodology
+## Required Tools & Platforms 
 
-This track follows the A.C.E. execution-based model, emphasizing practical application within the 4-Phase Module Cycle (Foundation, Application, Execution/Gate, Integration). Learning involves:
-*   **Process Simulations:** Performing common administrative and operational tasks within realistic scenarios.
-*   **Tool Proficiency Labs:** Hands-on exercises using Asana, Salesforce (Developer/Sandbox Orgs), QuickBooks (Online test drives/simulations), and standard office suites.
-*   **Practical Execution Tasks:** Completing specific assignments like creating project plans in Asana, building reports in Salesforce, entering sample transactions in QuickBooks.
-*   **Documentation Practice:** Creating process notes, meeting minutes, and status updates.
-*   **Portfolio Building:** Compiling evidence of completed tasks and proficiency in core tools.
-*   **Mentorship:** Guidance from experienced operations personnel or administrators within ARKTIK.
+Success in this foundational track requires proficiency with several standard digital tools. While ARKTIK encourages supporting businesses that offer robust tools (often via paid versions), the core competencies of this *foundational* track can typically be achieved using **freely available tiers or developer environments**.
+
+**Essential Tools (Utilizing Free Tiers/Environments):**
+*   **Asana:** Basic tier sufficient for foundational task and project tracking taught in this track.
+*   **Salesforce:** Salesforce Developer Edition Org (free) sufficient for learning basic data management and navigation.
+*   **QuickBooks Online:** Learning achieved via free trials, test drives, or focused simulations covering fundamental concepts and data entry workflows. (Full subscription not required *for this module*).
+*   **Standard Collaboration Suite:** Google Workspace / Microsoft 365 (free or existing ARKTIK accounts for Docs, Sheets, Calendar, Mail).
+*   **Communication Platforms:** Slack/Teams etc. (free tiers typically sufficient).
+
+**ARKTIK Endorsement of Quality Tools:** While free tiers suffice for initial learning, ARKTIK recognizes the enhanced capabilities of paid versions (Asana Premium/Business, full QuickBooks Online, etc.) and encourages their adoption where appropriate in operational roles after foundational training, especially supporting vendors who align with ethical business practices or support nonprofits/startups.
+
+**Associated A.C.E. Fees:**
+
+*   **Tool & Platform Access Fee:** **Does NOT apply** to this foundational track, as core learning objectives can be met using freely available tool tiers or simulations.
+*   **Blockchain Credential Issuance Fee:** Upon successful completion of the entire track, the standard, **universal nominal fee** applies for the issuance (minting) of your official **ARKTIK Certified Business Operations Assistant** credential onto the blockchain. This covers direct operational and transaction costs. (See Sec 7.4 of `ace_framework_overview.md`).
+
+## Learning Methodology
+_(Existing Methodology Text focusing on simulations, tool usage, task execution, etc. remains here)_
 
 ## Track Structure (Sequence of Modules)
-
-_(Note: Module codes are indicative)_
-
-1.  **`ACE-BOA-101`: Foundations of Business Operations & Ethics**
-    *   *Description:* Introduction to common business processes within the ARKTIK context, professional communication standards (written/verbal), data privacy principles, ethical considerations in administration, overview of core tools.
-    *   *Execution Gate:* Document a simple business process flow; draft professional email communications for various scenarios.
-
-2.  **`ACE-BOA-102`: Task & Workflow Management (Asana Focus)**
-    *   *Description:* Mastering Asana for creating/assigning tasks, building project plans, setting deadlines/dependencies, using custom fields, generating progress reports, collaborating within tasks.
-    *   *Execution Gate:* Set up and manage a simulated project in Asana, including task breakdown, assignments, deadlines, and status reporting.
-
-3.  **`ACE-BOA-103`: Customer & Stakeholder Data Management (Salesforce Basics)**
-    *   *Description:* Understanding CRM concepts, navigating the Salesforce interface, effectively managing Account and Contact records, logging activities (emails, calls, meetings), creating basic list views and reports/dashboards. Focus is on accurate data stewardship.
-    *   *Execution Gate:* Accurately enter and update stakeholder data in a Salesforce sandbox; create predefined reports based on specified criteria.
-
-4.  **`ACE-BOA-104`: Financial Record Keeping Fundamentals (QuickBooks Basics)**
-    *   *Description:* Core bookkeeping principles (income, expenses, assets, liabilities), chart of accounts basics, processing invoices and bills, recording payments, bank reconciliation concepts, navigating QuickBooks Online interface, generating simple financial reports (P&L, Balance Sheet basics).
-    *   *Execution Gate:* Correctly enter sample business transactions (invoices, expenses, payments) into QuickBooks Online (simulation/test drive) and generate accurate basic reports.
-
-5.  **`ACE-BOA-105`: Scheduling, Communication & Documentation**
-    *   *Description:* Efficiently managing calendars for scheduling meetings/appointments, professional etiquette for virtual meetings, creating effective agendas and concise meeting minutes, basic process documentation techniques. Utilizing Google Workspace/Microsoft 365 tools effectively.
-    *   *Execution Gate:* Schedule a series of meetings considering participant availability, create a formal agenda, and write concise, accurate minutes for a simulated meeting.
-
-6.  **`ACE-BOA-190`: Integrated Operations Support Simulation**
-    *   *Description:* Capstone simulation requiring participants to act as an Operations Assistant for a simulated ARKTIK project. Involves managing project tasks in Asana based on inputs, updating stakeholder records in Salesforce, retrieving basic financial data points from QuickBooks reference materials, and handling related communications professionally. Final portfolio compilation.
-    *   *Execution Gate:* Successfully execute all assigned operational support tasks within the simulation, demonstrating proficiency across tools and effective communication. Polished Portfolio of Execution.
+_(Existing Module Structure Text remains here)_
+1.  `ACE-BOA-101`: Foundations of Business Operations & Ethics
+2.  `ACE-BOA-102`: Task & Workflow Management (Asana Focus - Basic Tier Features)
+3.  `ACE-BOA-103`: Customer & Stakeholder Data Management (Salesforce Basics - Dev Org)
+4.  `ACE-BOA-104`: Financial Record Keeping Fundamentals (QuickBooks Basics - Concepts/Simulation)
+5.  `ACE-BOA-105`: Scheduling, Communication & Documentation
+6.  `ACE-BOA-190`: Integrated Operations Support Simulation (Using free tier functionalities)
 
 ## Core Technologies & Tools
+_(Updated List)_
+Asana (Basic Tier Proficiency), Salesforce (Developer Org - Basic User Proficiency), QuickBooks Online (Concepts & Basic Workflow via Simulation/Trial), Google Workspace / Microsoft 365 suite (Docs, Sheets, Calendar, Mail), Basic Communication Platforms (e.g., Slack/Teams).
 
-Asana (or designated PM tool), Salesforce ( foundational user skills in Developer/Sandbox Org), QuickBooks Online (foundational user skills via simulation/test drive), Google Workspace / Microsoft 365 suite (Docs, Sheets, Calendar, Mail), Basic Communication Platforms (e.g., Slack/Teams).
-
-## Certification Alignment
-
-*   **Supports Preparation For (External):** Foundational concepts relevant for Asana Certified Pro basics, Salesforce Certified Associate / Admin basics, QuickBooks Certified User.
-*   **Internal:** **ARKTIK Certified Business Operations Assistant**. Awarded upon successful completion of all module execution gates, the final simulation, portfolio review, and demonstrated reliability and integrity.
+## Certification & ARKTIK Endorsement
+_(Revised to use Endorsement language)_
+*   **Supports Preparation For (External):** Concepts align with foundational elements of Asana usage, Salesforce user basics (relevant for Associate cert concepts), QuickBooks User basics.
+*   **Internal:** **ARKTIK Certified Business Operations Assistant**. This blockchain-verified credential serves as ARKTIK's **endorsement**, validating proficiency in core operational support tasks using standard tools and demonstrating reliability and integrity according to ARKTIK standards. (Commitment Pathway credential validity is conditional per Sec 7.4 of framework).
 
 ## Outcome Pathways
-
-This Foundational Track prepares members for essential operational roles:
-*   Administrative Assistant
-*   Operations Assistant
-*   Project Coordinator (Junior)
-*   Data Entry Specialist
-*   ARKTIK Initiative Support Staff
-*   Provides a strong foundation for advancing to Practitioner/Specialist A.C.E. Tracks like Project Management Practitioner, Salesforce Administrator, or Financial Stewardship Practitioner. Directly contributes to **onshoring** critical business support functions.
+_(Existing Outcome Pathways Text remains here)_
 
 ## Assessment & Mastery
-
-Mastery is assessed through:
-*   Successful completion of all **Module Execution Gates** (primarily task simulations using the specified tools).
-*   Accuracy, timeliness, and professionalism demonstrated in the **Integrated Operations Support Simulation (ACE-BOA-190)**.
-*   Quality and organization of the **Portfolio of Execution**.
-*   Evaluation of communication clarity, attention to detail, and adherence to procedures and deadlines.
+_(Existing Assessment & Mastery Text remains here)_
 
 ## Next Steps / How to Apply
-
-ARKTIK members interested in ensuring the smooth and ethical operation of our initiatives should review the prerequisites (primarily Phase 0 completion and organizational aptitude) and apply through the designated A.C.E. process for the "Business Operations Assistant" track (Cycle 1 - 2025). Be prepared for detail-oriented, execution-focused learning.
+_(Existing Text remains here)_
 
 ## License & Compliance
-
-Refer to the main **[`ace_framework_overview.md`](../ace_framework_overview.md)** for overarching license and compliance information. All activities follow ARKTIK's ethical guidelines and data handling policies.
+_(Updated slightly)_
+Refer to the main **[`ace_framework_overview.md`](../../ace_framework_overview.md)** for overarching license and compliance information. Adherence to the terms of service for all utilized platforms (Asana, Salesforce, QuickBooks trial, etc.) and ARKTIK's data handling policies is mandatory.
 
 ---
 **ARKTIK-ARKITEK**

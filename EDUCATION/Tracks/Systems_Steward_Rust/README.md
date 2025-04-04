@@ -1,136 +1,148 @@
 # A.C.E. Track: Systems Steward - Rust
 
 **Pathway:** ARKTIK Design & Development Pathway
-**Level:** Practitioner / Specialist
+**Level:** Practitioner / Specialist (Phase 2/3 or 3/4)
 **Cycle:** 1 / **Year:** 2025
 
 ## Track Overview
 
 ### Vision & Purpose
 
-The Systems Steward - Rust Track is designed to forge highly competent and principled developers capable of building the **core backend systems, services, and tooling** that power ARKTIK initiatives. Utilizing Rust's strengths in safety, performance, and reliability, this track focuses on **digital craftsmanship** to create robust, efficient, and maintainable software infrastructure. It directly supports ARKTIK's mission by enabling the creation of resilient, trustworthy systems needed for community empowerment, local supply chains (ARKTIK ALOT), environmental monitoring, and secure communication, all grounded in alignment with **THE ETERNAL ONE**. This track is pivotal for **onshoring critical software development skills** with a focus on quality and long-term value.
+The **Systems Steward - Rust Track** is engineered to forge highly competent and principled developers capable of building the **core backend systems, services, infrastructure tooling, and integration layers** that power ARKTIK initiatives with exceptional **reliability, performance, and security**. Utilizing Rust's unique strengths in safety and efficiency, this track focuses on meticulous **digital craftsmanship** to create robust, maintainable software vital for ARKTIK's resilience and mission success. Participants master Rust for building performant APIs (both **REST and GraphQL**), interacting with data sources (including **blockchains/smart contracts**), managing concurrent operations safely, and deploying resilient services. This track is pivotal for **onshoring** advanced backend and systems development roles, ensuring ARKTIK's infrastructure is built on a foundation of quality and **Integrity**, aligned with **THE ETERNAL ONE**.
 
 ### Focus Area
 
-Core competencies include mastery of the Rust programming language, backend development, network services, data processing, systems tooling, testing, and deployment, with an unwavering focus on **memory safety, concurrency, performance optimization, and reliability**.
+Core competencies include mastery of the Rust language and its ecosystem (Cargo), building reliable backend systems and CLI tools, developing performant network services and modern APIs (**RESTful & GraphQL**), safe concurrency management, system performance optimization, rigorous testing methodologies, secure deployment practices (including cloud environments), and **integrating with blockchain systems by interacting with smart contracts**.
 
 ### Target Audience
 
-This rigorous track is intended for ARKTIK members who possess:
-*   Strong logical reasoning and problem-solving aptitude.
-*   A deep commitment to technical mastery and high-quality craftsmanship.
-*   The discipline required for Rust's demanding learning curve.
-*   A desire to build foundational infrastructure and mission-critical systems.
-Prior programming experience is beneficial but secondary to demonstrated commitment and aptitude if entering after foundational phases.
+This rigorous track is intended for ARKTIK members possessing:
+*   Strong logical reasoning, systems thinking, and complex problem-solving aptitude.
+*   A deep commitment to technical mastery, software quality, and precision craftsmanship.
+*   The discipline and perseverance required for Rust's demanding learning curve and focus on correctness.
+*   A desire to build foundational infrastructure, mission-critical backend services, or high-performance tooling.
+*   Prior programming experience is strongly recommended, alongside proven analytical skills.
 
 ### Key Outcomes (Demonstrated Execution)
 
 Upon successful completion, Systems Stewards will demonstrate the ability to:
-*   Design, develop, test, deploy, and maintain high-quality, idiomatic Rust applications.
-*   Build robust, performant, and secure backend APIs and network services.
-*   Implement efficient data processing and persistence solutions using Rust.
-*   Utilize Rust's concurrency features safely and effectively.
-*   Employ comprehensive testing and documentation practices.
-*   Deploy Rust applications to cloud environments (Azure/GCP) using containers or serverless patterns.
-*   Diagnose and resolve complex issues related to performance, memory, and concurrency.
+*   Design, develop, test, deploy, and maintain high-quality, idiomatic Rust applications for backend and systems contexts.
+*   Build robust, performant, and secure network APIs using both **RESTful and GraphQL** paradigms with standard Rust frameworks.
+*   **Interact programmatically with existing smart contracts** on relevant blockchains (e.g., read data, query state, potentially trigger transactions) using Rust libraries.
+*   Implement safe and efficient concurrent and asynchronous operations in Rust.
+*   Employ comprehensive testing strategies (unit, integration, potentially property-based) and documentation practices.
+*   Profile and optimize Rust code for performance and resource efficiency.
+*   Deploy Rust applications effectively to cloud or on-premises environments using containerization or serverless patterns.
+*   Diagnose and resolve complex issues related to memory safety, concurrency, and performance in Rust systems.
 
 ### ARKTIK Value Integration
 
-*   **Precision & Craftsmanship:** Rust's strict compiler and focus on correctness directly cultivate meticulous coding habits.
-*   **Resilience:** Building software that prevents entire classes of common bugs (memory safety, data races) leads to inherently more reliable systems.
-*   **Stewardship:** Writing efficient, maintainable code; managing system resources responsibly; contributing reliable tools for the community.
-*   **Integrity:** Emphasis on testing and verifiable correctness ensures systems function as intended.
-*   **Accountability:** Taking ownership of code quality, performance, and security through rigorous development practices.
-*   **Mastery:** Embracing the challenge of Rust leads to deep technical understanding and competence.
+*   **Precision & Craftsmanship:** Rust's compiler enforces precision; the track demands meticulous coding, testing, and design.
+*   **Resilience:** Building software inherently resistant to common bugs (memory safety, data races), crucial for ARKTIK's critical systems.
+*   **Stewardship:** Writing efficient, maintainable code; managing system resources responsibly; contributing reliable infrastructure components.
+*   **Integrity:** Ensuring systems function correctly and securely; transparent interaction with blockchain data where applicable.
+*   **Accountability:** Taking ownership of system reliability, performance, security, and adherence to rigorous testing standards.
+*   **Mastery:** Deep technical competence achieved through dedicated practice and understanding Rust's core principles.
 
 ## Prerequisites
 
-*   Completion of **A.C.E. Phase 0: ARKTIK Foundations & Digital Readiness** (or demonstrated equivalent).
-*   Demonstrated strong logical reasoning and problem-solving ability (via assessment or prior A.C.E. track performance).
-*   Proficiency with Git and command-line environments.
-*   Basic understanding of programming concepts (variables, control flow, functions, data structures) is essential – may be acquired through an A.C.E. Foundational Track or assessment.
+*   Successful completion of **A.C.E. Phase 0: ARKTIK Foundations & Digital Readiness**.
+*   Demonstrated **strong logical reasoning and problem-solving ability** (potentially via assessment).
+*   **Proficiency with Git and command-line environments** is essential.
+*   **Solid foundational programming concepts** (variables, control flow, functions, data structures, basic OOP/functional concepts) are critical – potentially acquired via an A.C.E. Foundational Track or validated experience. Prior systems language experience (C/C++) is beneficial but not mandatory.
+
+## Required Tools, Platforms & Associated Fees
+
+Success requires a robust development environment and potentially access to cloud resources for deployment modules.
+
+**Essential Software/Platforms (Managed Access via A.C.E. or Free):**
+*   **Rust Toolchain:** Stable Rust compiler (`rustc`), Cargo (build tool/package manager), Rust Analyzer (for IDE support).
+*   **IDE:** VS Code (with rust-analyzer extension recommended) or JetBrains RustRover/CLion with Rust plugin.
+*   **Version Control:** Git / GitHub / GitHub Codespaces (encouraged for collaboration/consistency).
+*   **Containerization:** Docker (for deployment modules).
+*   **Cloud Platforms:** Basic access to Azure / GCP for deployment modules (usage beyond free tiers may incur costs).
+*   **Blockchain Interaction:** Access to relevant blockchain testnets; standard explorers.
+*   **Standard Collaboration Suite & PM Tools:** Asana, Docs, etc.
+
+**Associated A.C.E. Fees:**
+
+1.  **Tool & Platform Access Fee:** While core Rust development is free, later modules involving significant **cloud platform usage (Azure/GCP)** beyond typical free tiers for realistic deployment and testing may incur costs. Therefore, a periodic **Tool & Platform Access Fee** might apply during those specific modules to cover ARKTIK's managed cost for necessary cloud credits/resources plus operational overhead. Applies regardless of Commitment or Direct Tuition pathway status, unless covered by scholarship terms.
+2.  **Blockchain Credential Issuance Fee:** Upon successful completion, the standard, **universal nominal fee** applies for issuing your official **ARKTIK Certified Systems Steward - Rust** credential onto the blockchain.
+
+*Please refer to the official **A.C.E. Fee Schedule** document (link TBD) for current fee amounts and specifics on cloud resource fees.* Commitment Pathway participants review `ace_framework_overview.md` Sec 7.4 re: conditional validity.
 
 ## Learning Methodology
 
-This Track adheres strictly to the A.C.E. execution-based model, emphasizing the 4-Phase Module Cycle (Foundation, Application, Execution/Gate, Integration). Learning involves intensive hands-on coding, rigorous code reviews focusing on idiomatic Rust and ARKTIK values, mandatory comprehensive testing, documentation as code, portfolio development, and dedicated mentorship. This is about "learning Rust the ARKTIK way"—with purpose, precision, and a focus on building truly resilient systems. Integration with relevant **A.C.E. Business & Project Management modules** is expected.
+This track adheres strictly to the A.C.E. execution-based model (4-Phase Cycle), emphasizing deep understanding and practical application: rigorous hands-on coding exercises, building backend services/APIs (REST & GraphQL), implementing concurrency patterns, interfacing with databases and blockchains, mandatory comprehensive testing (TDD encouraged), detailed code reviews, deployment practice, performance profiling drills, and building a strong portfolio of robust Rust projects. Mentorship focuses on idiomatic Rust, systems design, and ARKTIK values.
 
 ## Track Structure (Sequence of Modules)
 
-_(Note: Module codes and durations are indicative)_
+_(Note: Module codes indicative - Assumes Phase 2/3 entry)_
 
-### Module 1: `ACE-SSR-101` - ARC-I: Systems Welding & Foundational Structures (Approx. 12 Weeks)
+1.  **`ACE-SSR-101`: ARC-I: Systems Welding & Foundational Structures (Approx. 12 Weeks)**
+    *   *Description:* The foundational module covering Rust syntax, ownership mastery, error handling, testing, modularity, **basic** concurrency/async, File I/O, Serde, **introductory** API/DB interaction as defined in the ARC-I outline.
+    *   *Execution Gate:* Capstone Project 1 - Functional, tested Rust prototype.
 
-*   **Description:** The foundational module covering Rust syntax, the ownership model mastery, error handling, testing, modularity, basic concurrency, I/O, and Cargo usage, all framed within ARKTIK values. (Corresponds to the previously detailed ARC-I outline).
-*   **Execution Gate:** Capstone Project 1 - Building a functional, tested, documented Rust application prototype addressing an ARKTIK need.
+2.  **`ACE-SSR-201`: Advanced Rust Idioms & Design Patterns**
+    *   *Description:* Deepening proficiency via advanced traits, error handling strategies (`thiserror`/`anyhow`), common Rust design patterns, API design best practices, ecosystem exploration.
+    *   *Execution Gate:* Refactor complex project using advanced idioms; Design a robust library API.
 
-### Module 2: `ACE-SSR-201` - Advanced Rust Idioms & Design Patterns
+3.  **`ACE-SSR-210`: Networked Systems & APIs (REST & GraphQL) with Rust** _(Updated)_
+    *   *Description:* Building reliable network applications. Advanced asynchronous programming with Tokio/async-std. Implementing performant and idiomatic **RESTful APIs** and **GraphQL APIs** using frameworks like Axum/Actix (with `async-graphql` or Juniper). WebSockets basics.
+    *   *Execution Gate:* Develop and test a concurrent network service featuring both REST and GraphQL endpoints for defined data operations.
 
-*   **Description:** Deepening Rust proficiency through advanced trait usage, effective error handling strategies (e.g., `thiserror`, `anyhow`), common Rust design patterns (e.g., Builder, Iterator, Type State), API design principles, and deeper exploration of the Rust ecosystem.
-*   **Execution Gate:** Refactoring a complex project using advanced idioms and patterns; designing a robust library API.
+4.  **`ACE-SSR-220`: Data Persistence & Blockchain Interaction** _(Updated)_
+    *   *Description:* Advanced database interaction with SQLx/Diesel (async focus, migrations). Working efficiently with filesystems. Building data processing pipelines. **Introduction to interacting with blockchains:** reading data from smart contracts (e.g., balances, state variables) and potentially triggering simple transactions using Rust libraries like `ethers-rs` (for EVM) or platform-specific crates. Understanding ABIs.
+    *   *Execution Gate:* Implement a service that persists data to a DB and reads related data from a specified smart contract on a testnet.
 
-### Module 3: `ACE-SSR-210` - Networked Systems with Rust
+5.  **`ACE-SSR-301`: Cloud Deployment & Operations for Rust Systems**
+    *   *Description:* Packaging Rust apps with Docker. Deploying to Azure/GCP using Cloud Run, App Service, Azure Functions, or basic Kubernetes (GKE/AKS). Implementing cloud-native monitoring, logging, and basic security configurations for Rust services. IaC concepts.
+    *   *Execution Gate:* Containerize, deploy, secure (basic hardening), and monitor a Rust service on both Azure and GCP.
 
-*   **Description:** Building reliable network applications. Covers low-level TCP/UDP, advanced asynchronous programming with Tokio/async-std, building performant web servers/APIs using frameworks like Actix, Axum, or Rocket, and understanding web protocols.
-*   **Execution Gate:** Develop and test a concurrent network service (e.g., chat server, API backend) capable of handling multiple connections reliably.
+6.  **`ACE-SSR-310`: Special Topics / Domain Application**
+    *   *Description:* Flexible module for specialization: **Advanced Smart Contract Interaction/Integration**, Intro to Rust on **Embedded Systems**, **WebAssembly (Wasm)** with Rust, High-Performance Computing (HPC) patterns, contributing to Rust open source, or another area strategic to ARKTIK.
+    *   *Execution Gate:* Deliver a working component or significant contribution within the chosen specialization.
 
-### Module 4: `ACE-SSR-220` - Data Persistence & Processing in Rust
-
-*   **Description:** Interacting with databases (async SQLx, potentially ORMs like Diesel), advanced serialization/deserialization with Serde, efficient file I/O and manipulation, building data processing pipelines, working with different data formats (JSON, CSV, binary).
-*   **Execution Gate:** Implement a service that reliably persists and retrieves structured data from a database, including data validation and migrations.
-
-### Module 5: `ACE-SSR-301` - Cloud Deployment & Operations for Rust Systems
-
-*   **Description:** Packaging Rust applications using Docker, deploying to cloud platforms (Azure/GCP) via containers (Kubernetes basics), serverless functions (Cloud Run, Azure Functions), Infrastructure as Code principles, basic cloud security, monitoring, and logging for Rust applications.
-*   **Execution Gate:** Successfully containerize, deploy, secure, and monitor a Rust service on a chosen cloud platform.
-
-### Module 6: `ACE-SSR-310` - Special Topics / Domain Application
-
-*   **Description:** Flexible module allowing specialization based on current ARKTIK needs and participant interest. Potential topics: WebAssembly (Wasm) for browser/edge compute, Foreign Function Interface (FFI) for integrating with other languages, Embedded Rust, specific Blockchain integrations (Solana/Polkadot contract development), advanced performance tuning, or contributing to open-source Rust projects.
-*   **Execution Gate:** Deliver a working component or significant contribution within the chosen specialization area.
-
-### Module 7: `ACE-SSR-401` - Capstone Execution: Resilient System Build
-
-*   **Description:** A substantial project requiring integration of skills from across the track to design, build, test, deploy, and document a mission-critical system or tool for a real ARKTIK initiative. Involves significant independent work, potential team collaboration, and rigorous review.
-*   **Execution Gate:** Successful defense and evaluation of the capstone project against technical requirements, quality standards, and ARKTIK value alignment.
+7.  **`ACE-SSR-490`: Capstone Execution - Resilient System Build**
+    *   *Description:* A major project requiring integration of skills across the track. Design, build, test, deploy (potentially cloud), and document a mission-critical backend system, API landscape (using REST/GraphQL), or infrastructure tool for a real ARKTIK initiative, potentially involving blockchain interaction. Rigorous code review, performance testing, and security considerations mandatory.
+    *   *Execution Gate:* Successful defense and evaluation of the capstone system against technical requirements, quality standards, performance benchmarks, security posture, and ARKTIK value alignment. Comprehensive Portfolio of Execution.
 
 ## Core Technologies & Tools
 
-Rust Language (Stable toolchain), Cargo, Rust Analyzer (or equivalent IDE support), Git, GitHub, GitHub Codespaces / Linux Dev Environment, Docker, Basic CLI tools, Asana (Project Management), Serde, Tokio/async-std, Actix/Axum/Rocket (or chosen web framework), SQLx/Diesel, Terraform/Pulumi (IaC concepts), Azure & GCP (core deployment/monitoring services).
+**Rust Language (Advanced)**, **Cargo**, Rust Analyzer/IDE, **Git/GitHub/Codespaces**, Docker, Linux Fundamentals, **Asana**, **Axum/Actix/Rocket** (Web Frameworks), **async-graphql/Juniper** (GraphQL Libs), **SQLx/Diesel** (DB interaction), **Serde**, **Tokio/async-std**, **ethers-rs** / relevant blockchain crates, **Azure & GCP** (Core compute, serverless, container, monitoring services), Basic **Solidity ABI** understanding, Testing Frameworks.
 
-## Certification Alignment
+## Certification & ARKTIK Endorsement
 
-*   **Primary Internal:** **ARKTIK Certified Systems Steward - Rust**. Awarded upon successful completion of all track execution gates, capstone project, portfolio review, and demonstrated adherence to ARKTIK values.
-*   **Supports Preparation For (External):** While specific Rust certifications are emerging, this track builds skills relevant to Cloud certifications (e.g., Azure Developer Associate, Google Cloud Associate Cloud Engineer - when combined with cloud modules), potentially security certifications, and advanced software engineering roles.
+*   **Supports Preparation For (External):** While official Rust certs are nascent, skills are highly relevant for advanced Backend Developer roles, Systems Programming roles, Cloud certifications (Developer/Architect associate level), and emerging **Web3 Backend Developer** roles.
+*   **Internal:** **ARKTIK Certified Systems Steward - Rust**. This blockchain-verified credential serves as ARKTIK's **endorsement**, validating mastery in building high-quality, reliable, performant backend systems and infrastructure components using Rust, capable of integrating with diverse data sources including blockchains, according to ARKTIK's rigorous standards. (Commitment Pathway credential validity conditional).
 
 ## Outcome Pathways
 
-This Track prepares members for critical roles within ARKTIK and aligned entities:
-*   Backend Developer (Rust)
+Prepares members for critical technical roles within ARKTIK and aligned entities:
+*   Backend Developer (Rust Specialist)
 *   Systems Programmer
-*   Cloud Engineer / DevOps Engineer (with Rust specialization)
-*   Infrastructure Developer
-*   Potential specialization roles based on Module 6/Capstone (Embedded, Blockchain, Wasm).
-*   Technical leadership positions focused on building and maintaining ARKTIK's core digital infrastructure.
-*   Entrepreneurship: Launching ventures requiring high-performance/high-reliability software backends.
+*   Cloud Engineer / DevOps Engineer (Rust/Infrastructure focus)
+*   Infrastructure Tooling Developer
+*   **Web3 Backend Developer** (Rust focus, Smart Contract Integration)
+*   Potential roles in Embedded Systems or Performance Engineering based on specialization.
+*   Technical leadership focusing on ARKTIK's core infrastructure. Essential for **onshoring** advanced software engineering talent focused on reliability and performance.
 
 ## Assessment & Mastery
 
-Mastery is assessed continuously and rigorously through:
-*   Successful completion and review of all **Module Execution Gates**.
-*   Mandatory high standard of **testing coverage** (unit, integration).
-*   **Code quality reviews** focusing on idiomatic Rust, clarity, maintainability, performance, and security.
-*   Quality and completeness of **documentation**.
-*   Successful delivery and defense of the **Capstone Project**.
-*   Comprehensive **Portfolio of Execution**.
-*   Demonstrated embodiment of **ARKTIK principles** in work and collaboration.
+Evaluated through rigorous execution and demonstration:
+*   Successful completion of all **Module Execution Gates** (complex coding tasks, API implementations, DB/Blockchain interactions, cloud deployments, security configurations).
+*   Technical excellence, robustness, performance, and security demonstrated in the **Capstone System Build (ACE-SSR-490)**.
+*   Depth, quality, and idiomatic correctness of Rust code showcased in the **Portfolio of Execution**.
+*   Proficiency in debugging, testing, performance profiling, and applying Rust's safety paradigms.
+*   Consistent embodiment of **ARKTIK values** in design choices, collaboration, and code quality.
 
 ## Next Steps / How to Apply
 
-Interested ARKTIK members who meet the prerequisites should express their interest through the designated A.C.E. application process for the "Systems Steward - Rust" track (Cycle 1 - 2025). Be prepared for a rigorous assessment of aptitude and commitment. This track demands significant dedication and a passion for building truly resilient and high-quality systems.
+ARKTIK members with prerequisite strong programming foundations, analytical skills, and a deep commitment to technical excellence and ARKTIK's mission should inquire about the selective application process for the "Systems Steward - Rust" track (Cycle 1 - 2025). This is one of A.C.E.'s most technically demanding tracks, requiring significant dedication and perseverance.
 
 ## License & Compliance
 
-Refer to the main **[`ace_framework_overview.md`](../ace_framework_overview.md)** for overarching license and compliance information. All development within this track adheres to ARKTIK's ethical guidelines, security standards, and licensing policies.
+Refer to the main **[`ace_framework_overview.md`](../../ace_framework_overview.md)**. Adherence to software licensing (Rust's MIT/Apache 2.0), cloud provider terms, secure coding practices, data privacy regulations, and ARKTIK's ethical guidelines is mandatory. Interactions with blockchains must comply with relevant network rules and ARKTIK policies.
 
 ---
 **ARKTIK-ARKITEK**

@@ -8,134 +8,132 @@
 
 ### Vision & Purpose
 
-The **Financial Stewardship Practitioner Track** is dedicated to cultivating meticulous, ethical, and proficient individuals capable of managing the financial health and integrity of ARKTIK initiatives and aligned ventures. In an ecosystem explicitly rejecting greed and prioritizing economic integrity, competent financial stewardship is foundational. This track equips members with the knowledge of sound bookkeeping principles and practical mastery of tools like **QuickBooks Online** to ensure accurate financial recording, transparent reporting, and responsible resource management. It supports the **onshoring** of crucial financial administration roles, ensuring ARKTIK operations are financially sustainable, accountable, and fully aligned with our core values and **THE ETERNAL ONE**.
+The **Financial Stewardship Practitioner Track** is engineered to cultivate meticulous, ethical, and versatile financial professionals capable of navigating both **traditional and Web3 financial landscapes** within the ARKTIK ecosystem. This A.C.E. program provides mastery of sound bookkeeping principles and practical proficiency in core tools like **QuickBooks Online** alongside essential skills for tracking, managing, and reporting **cryptocurrency assets and transactions**. Graduates will be "Hybrid" stewards, ensuring financial **integrity, transparency, accountability, and resilience** across all ARKTIK initiatives, whether operating with fiat currency or digital assets, always guided by alignment with **THE ETERNAL ONE**. This track supports the **onshoring** of modern financial administration roles equipped for the evolving economic landscape.
 
 ### Focus Area
 
-Core competencies include understanding and applying double-entry bookkeeping principles, managing the Chart of Accounts, processing Accounts Payable (AP) and Accounts Receivable (AR) accurately, performing bank reconciliations, generating and interpreting core financial statements (P&L, Balance Sheet), assisting with budget creation and tracking, understanding payroll fundamentals, and achieving proficiency in QuickBooks Online for daily financial operations.
+Core competencies include double-entry bookkeeping, Chart of Accounts management, AP/AR processing, bank/wallet reconciliation, financial statement preparation/interpretation (for both fiat and basic crypto holdings), budgeting support, payroll concepts, proficiency in QuickBooks Online, **and practical application of tools/methods for crypto transaction tracking, basic valuation, and reporting**. Ethical financial management in both TradFi and Web3 contexts is central.
 
 ### Target Audience
 
 This track is designed for ARKTIK members who:
-*   Possess exceptional attention to detail and accuracy.
-*   Have strong numerical aptitude and enjoy working with financial data.
-*   Uphold the highest standards of personal integrity and trustworthiness.
-*   Are methodical and organized in their approach to tasks.
-*   Are interested in ensuring the financial health and transparency of ARKTIK initiatives.
-*   Prior bookkeeping or accounting exposure is helpful but not mandatory if aptitude is strong.
+*   Possess exceptional attention to detail, accuracy, and numerical aptitude.
+*   Uphold the absolute highest standards of personal integrity and trustworthiness.
+*   Are methodical, organized, and capable of managing complex financial data from multiple sources (fiat banks, crypto wallets/exchanges).
+*   Are interested in ensuring the financial health, transparency, and compliance of ARKTIK operations across both traditional and digital asset realms.
+*   Are adaptable and willing to learn evolving best practices for digital asset accounting.
 
 ### Key Outcomes (Demonstrated Execution)
 
 Upon successful completion, members will demonstrate the ability to:
-*   Apply double-entry bookkeeping principles to accurately record diverse financial transactions.
-*   Set up and manage a Chart of Accounts appropriate for an ARKTIK initiative or small business.
-*   Efficiently manage Accounts Payable and Accounts Receivable cycles using QuickBooks Online.
-*   Perform timely and accurate bank and credit card reconciliations.
-*   Generate, review, and interpret key financial statements (Profit & Loss, Balance Sheet) from QuickBooks Online.
-*   Assist in the creation of budgets and track actual performance against budget.
-*   Understand payroll components and basic processing concepts.
-*   Operate QuickBooks Online proficiently for day-to-day bookkeeping tasks.
-*   Maintain strict confidentiality and adhere to ethical financial practices.
+*   Apply double-entry bookkeeping principles accurately to both fiat and basic cryptocurrency transactions.
+*   Manage AP/AR and perform reconciliations for both bank accounts and crypto wallets/exchange accounts.
+*   Generate and interpret core financial statements reflecting both fiat and crypto asset positions/activity using designated tools (QuickBooks + Crypto Accounting Software).
+*   Utilize specialized software (e.g., CoinLedger or similar) and blockchain explorers to track, categorize, and report crypto transactions (income, expenses, gains/losses).
+*   Understand basic crypto asset valuation methods (FMV) for reporting purposes.
+*   Assist in budget preparation/tracking that incorporates potential crypto holdings/expenses.
+*   Operate QuickBooks Online proficiently for traditional bookkeeping.
+*   Adhere strictly to ethical principles and security best practices for managing both financial data and digital assets.
 
 ### ARKTIK Value Integration
 
-*   **Integrity:** Paramount in ensuring accurate, honest, and verifiable financial records and reports.
-*   **Stewardship:** Responsible and prudent management of ARKTIK's financial resources, maximizing value and minimizing waste.
-*   **Transparency:** Providing clear, understandable financial reporting to stakeholders as appropriate within ARKTIK guidelines.
-*   **Accountability:** Tracking income, expenses, assets, and liabilities accurately; enabling financial oversight.
-*   **Precision:** Meticulous data entry, classification, and reconciliation are non-negotiable.
-*   **Resilience:** Supporting sustainable financial planning and operations for ARKTIK initiatives.
+*   **Integrity:** Paramount for accurate and honest recording/reporting of ALL financial activity (fiat and crypto). Maintaining confidentiality and security of sensitive data (keys, etc.).
+*   **Stewardship:** Responsible management of community/initiative funds across all forms (fiat, crypto). Prudent handling of digital assets.
+*   **Transparency:** Providing clear, understandable financial reporting that incorporates digital asset activity according to ARKTIK guidelines.
+*   **Accountability:** Ensuring complete and verifiable records for all financial transactions, enabling oversight.
+*   **Precision:** Meticulous data entry, classification, reconciliation, and valuation in both fiat and crypto contexts.
+*   **Resilience & Strategic Adaptability:** Building skills to manage finances in evolving traditional and decentralized economic systems.
 
 ## Prerequisites
 
 *   Successful completion of **A.C.E. Phase 0: ARKTIK Foundations & Digital Readiness**.
-*   Demonstrated strong numeracy skills and exceptional attention to detail.
-*   Unquestionable personal integrity and trustworthiness.
-*   Completion of **ACE-BOA: Business Operations Assistant Track** or equivalent familiarity with basic business processes and digital tools is beneficial.
+*   Demonstrated strong numeracy skills and **exceptional attention to detail**. Required for both traditional and crypto bookkeeping accuracy.
+*   Unquestionable personal integrity and commitment to security best practices.
+*   Completion of **ACE-BOA: Business Operations Assistant Track** or equivalent familiarity with business processes is beneficial.
+*   Basic understanding of blockchain and cryptocurrency concepts is helpful (or covered early in track).
+
+## Required Tools, Platforms & Associated Fees
+
+Success in this track requires proficiency with standard bookkeeping software plus tools capable of handling cryptocurrency complexities.
+
+**Essential Software/Platforms (Managed Access via A.C.E.):**
+*   **Traditional Bookkeeping:** QuickBooks Online (Subscription required).
+*   **Crypto Accounting:** A designated Crypto Accounting Software platform (e.g., CoinLedger, Cryptio, TaxBit - specific tool TBD, subscription likely required) for importing transactions from wallets/exchanges and calculating basis/gains/losses.
+*   **Blockchain Explorers:** Proficiency using public explorers (e.g., Etherscan, Solscan) for transaction verification.
+*   **Spreadsheets:** Google Sheets / Excel for supplementary analysis, budgeting, manual tracking if needed.
+*   **Standard Collaboration Suite:** Google Workspace / Microsoft 365.
+
+**Associated A.C.E. Fees:**
+
+1.  **Tool & Platform Access Fee:** This track requires access to **licensed software subscriptions** (QuickBooks Online **and** a specialized Crypto Accounting Platform). Therefore, a periodic (e.g., monthly or per-module) **Tool & Platform Access Fee** applies to **all participants** enrolled. This fee covers ARKTIK's managed cost for essential software access plus a transparent operational overhead. Applies regardless of Commitment or Direct Tuition pathway status, unless explicitly covered by specific scholarship terms.
+2.  **Blockchain Credential Issuance Fee:** Upon successful completion of the entire track, the standard, **universal nominal fee** applies for the issuance (minting) of your official **ARKTIK Certified Financial Stewardship Practitioner** credential onto the blockchain (covers minting/operational costs).
+
+*Please refer to the official **A.C.E. Fee Schedule** document (link TBD) for current fee amounts.* Commitment Pathway participants should review Section 7.4 of the `ace_framework_overview.md` regarding the conditional validity of their blockchain credential.
 
 ## Learning Methodology
 
-This track follows the A.C.E. execution-based model (4-Phase Cycle), focusing intensely on practical application using **QuickBooks Online** (student/sandbox/trial versions):
-*   **Transaction Processing Labs:** Entering diverse sample business transactions (invoices, bills, payments, expenses) accurately.
-*   **Reconciliation Exercises:** Performing step-by-step bank and credit card reconciliations using sample statements.
-*   **Reporting Workshops:** Generating, customizing, and interpreting standard financial reports based on case study data.
-*   **Budgeting Practice:** Creating basic budgets using templates or QuickBooks features and performing variance analysis.
-*   **Process Simulation:** Managing aspects of the bookkeeping cycle for simulated ARKTIK initiatives.
-*   **Portfolio Development:** Compiling sample financial reports, reconciliation summaries, budget worksheets, and process checklists demonstrating proficiency.
-*   **Mentorship:** Guidance from experienced ARKTIK financial personnel or aligned accounting professionals.
+This track is highly **execution-based**, utilizing the A.C.E. 4-Phase Cycle with practical application in both QuickBooks Online and specialized crypto accounting tools/simulations:
+*   **Transaction Processing Labs:** Entering diverse fiat *and* crypto transactions accurately.
+*   **Reconciliation Exercises:** Performing reconciliations for bank accounts *and* crypto wallets/exchange accounts.
+*   **Crypto Tracking Practice:** Using crypto accounting software and explorers to import, classify, and report on crypto transaction histories.
+*   **Reporting Workshops:** Generating integrated financial reports reflecting both fiat and crypto activity.
+*   **Budgeting & Analysis Exercises:** Incorporating crypto assets/volatility into basic budgeting and financial statement analysis.
+*   **Security Drills:** Practicing secure handling procedures for financial data and digital asset information (conceptual).
+*   **Portfolio Development:** Compiling sample financial reports (integrated), reconciliations, crypto transaction reports, budget worksheets, and process documentation.
+*   **Mentorship:** Guidance from ARKTIK financial personnel experienced in both traditional and digital asset accounting.
 
 ## Track Structure (Sequence of Modules)
 
-_(Note: Module codes are indicative - Assumes entry at Phase 2/3 level)_
+_(Note: Module codes indicative - Assumes entry at Phase 2/3 level)_
 
-1.  **`ACE-FSP-101`: Financial Principles & ARKTIK Stewardship**
-    *   *Description:* Foundational accounting equation (Assets = Liabilities + Equity), double-entry system (debits/credits), accrual vs. cash concepts, importance of financial ethics, ARKTIK's specific financial values (anti-greed, transparency), introduction to QuickBooks Online interface and core concepts.
-    *   *Execution Gate:* Correctly classify accounts using the accounting equation; articulate ARKTIK's financial principles in relation to bookkeeping tasks.
+1.  **`ACE-FSP-101`: Financial Principles & ARKTIK Stewardship (TradFi Focus):** Accounting equation, double-entry, debits/credits, financial ethics, ARKTIK values, QuickBooks Online Intro. *( Remains focused on traditional foundation)*.
+2.  **`ACE-FSP-110`: Chart of Accounts & Core Fiat Transactions (QuickBooks):** Setting up CoA, recording common fiat transactions (income, expenses, transfers) using QBO forms.
+3.  **`ACE-FSP-201`: Managing Fiat Payables & Receivables (AP/AR in QuickBooks):** Tracking bills/vendor payments (AP), invoicing/customer payments (AR), aging reports using QBO.
+4.  **`ACE-FSP-210`: Fiat Banking & Reconciliation Mastery (QuickBooks):** Bank feeds, categorizing transactions, performing rigorous bank/credit card reconciliations in QBO.
+5.  **`ACE-FSP-220`: Fiat Financial Reporting & Interpretation (QuickBooks):** Generating/customizing/interpreting core statements (P&L, Balance Sheet) from QBO.
+6.  **`ACE-FSP-230`: Introduction to Crypto Asset Accounting & Reporting (NEW MODULE):**
+    *   *Description:* Blockchain/Crypto/Wallet/Exchange basics recap. Methods for tracking diverse crypto transactions (transfers, trades, staking, airdrops). Introduction to Crypto Accounting Software (using ARKTIK's designated platform). Basic crypto valuation (FMV) and FIFO/LIFO concepts for cost basis. Reporting crypto on financial statements. Security best practices for organizational crypto assets. Using blockchain explorers for verification.
+    *   *Execution Gate:* Accurately import/classify a set of crypto transactions using designated software; reconcile a crypto wallet statement; explain basic reporting implications.
 
-2.  **`ACE-FSP-110`: Chart of Accounts & Core Transactions**
-    *   *Description:* Designing/customizing a Chart of Accounts suitable for ARKTIK initiatives, accurately recording common transactions impacting asset, liability, equity, income, and expense accounts using QuickBooks forms (invoices, bills, expense reports, journal entries where appropriate).
-    *   *Execution Gate:* Set up a basic Chart of Accounts in QuickBooks; accurately record a diverse set of provided sample transactions.
-
-3.  **`ACE-FSP-201`: Managing Payables & Receivables (AP/AR)**
-    *   *Description:* Entering vendor bills, scheduling and recording payments (AP). Creating customer invoices, tracking receivables, recording customer payments, managing aging reports to ensure timely collections (AR). Handling credits and adjustments.
-    *   *Execution Gate:* Process a batch of simulated vendor bills and customer invoices, record payments, and generate accurate AP/AR aging reports in QuickBooks.
-
-4.  **`ACE-FSP-210`: Banking & Reconciliation Mastery**
-    *   *Description:* Setting up bank feeds (or importing statements manually), efficiently categorizing downloaded transactions, performing monthly bank and credit card account reconciliations, identifying and resolving discrepancies. Importance of reconciliation for financial integrity.
-    *   *Execution Gate:* Successfully reconcile provided bank and credit card statements against transaction data in QuickBooks, identifying and correcting any discrepancies.
-
-5.  **`ACE-FSP-220`: Financial Reporting & Interpretation Basics**
-    *   *Description:* Generating standard financial statements (Profit & Loss / Income Statement, Balance Sheet, Statement of Cash Flows - basic concepts) from QuickBooks. Understanding the purpose and key components of each statement. Basic report customization and interpretation for operational insights.
-    *   *Execution Gate:* Generate accurate P&L and Balance Sheet reports for a specific period from simulated data; briefly explain key trends observed.
-
-6.  **`ACE-FSP-301`: Budgeting & Payroll Fundamentals**
-    *   *Description:* Principles of operational budgeting, creating budgets within QuickBooks or using spreadsheet templates, generating budget vs. actual reports, basic variance analysis. Conceptual overview of the payroll process: employee setup, withholdings (taxes, deductions), payroll liabilities, processing options (manual vs. service). *Focus on understanding concepts, not processing payroll.*
-    *   *Execution Gate:* Create a simple operating budget for a project; run and interpret a budget vs. actual report. Explain key payroll liabilities.
-
-7.  **`ACE-FSP-310`: Period-End Procedures & Financial Integrity Checks**
-    *   *Description:* Best practices for month-end and year-end closing processes (checklists, adjustments). Performing internal reviews to ensure data accuracy and consistency. Understanding the audit trail features within QuickBooks. Recognizing potential red flags for errors or fraud.
-    *   *Execution Gate:* Develop a month-end closing checklist; perform specified integrity checks on a provided QuickBooks data set.
-
-8.  **`ACE-FSP-490`: Capstone Execution - Full Cycle Bookkeeping Simulation**
-    *   *Description:* Manage the complete bookkeeping cycle within QuickBooks Online for a simulated ARKTIK initiative over several months. Includes recording all transactions, managing AP/AR, reconciling accounts monthly, generating period-end financial statements, and providing a brief analysis of financial performance/position. Final portfolio review.
-    *   *Execution Gate:* Successful completion of the full cycle simulation with high accuracy, timely reconciliations, correct reporting, and insightful basic analysis. Comprehensive Portfolio of Execution demonstrating mastery.
+7.  **`ACE-FSP-301`: Budgeting & Payroll Fundamentals (Integrated):** Budgeting principles incorporating both fiat and potential crypto forecasts (considering volatility). Budget vs. actual reporting (integrated). Payroll concepts overview (remains focused on principles).
+8.  **`ACE-FSP-310`: Period-End, Integrity Checks & Basic Tax Concepts (Integrated):** Closing procedures incorporating both fiat and crypto reconciliations/valuations. Internal controls for digital assets. Overview of basic tax implications for crypto transactions (US context - reporting requirements for gains/losses/income). Understanding audit trails in both QBO and crypto accounting software.
+9.  **`ACE-FSP-490`: Capstone Execution - Integrated Financial Cycle Simulation:** Manage the complete bookkeeping cycle for a simulated ARKTIK initiative involving **both fiat (QuickBooks) and cryptocurrency (Crypto Accounting Software)** transactions over a defined period. Includes recording, AP/AR (fiat), reconciliation (all accounts), generating integrated period-end reports, and providing basic analysis considering both asset types. Final portfolio review.
 
 ## Core Technologies & Tools
 
-**QuickBooks Online** (Primary; Intermediate-to-Advanced User Proficiency), **Spreadsheets** (Google Sheets/Excel for analysis/budgeting), Standard Office Suite & Communication Tools.
+**QuickBooks Online** (Intermediate/Advanced User Proficiency), **Designated Crypto Accounting Software** (e.g., CoinLedger, Cryptio - Proficiency Required), **Blockchain Explorers** (Etherscan, etc.), **Advanced Spreadsheets** (Google Sheets/Excel), Standard Office Suite & Communication Tools, potentially read-only access to Exchange/Wallet APIs (concepts).
 
-## Certification Alignment
+## Certification & ARKTIK Endorsement
 
-*   **Supports Preparation For (External):** Directly aligns with and prepares participants for the **Intuit QuickBooks Certified User (Online)** exam. Provides foundational bookkeeping knowledge relevant to introductory accounting courses and aspects of the **Certified Financial Planner (CFP)** curriculum (budgeting, financial statements).
-*   **Internal:** **ARKTIK Certified Financial Stewardship Practitioner**. Validates proficiency in accurate bookkeeping, financial reporting using QuickBooks Online, and dedication to ARKTIK's principles of financial integrity and stewardship.
+*   **Supports Preparation For (External):** Directly aligns with **QuickBooks Certified User (Online)**. Provides essential skills relevant to emerging **Certified Digital Asset Advisor** roles or crypto accounting certificates. Foundational knowledge for **CFP** concepts.
+*   **Internal:** **ARKTIK Certified Financial Stewardship Practitioner**. This blockchain-verified credential serves as ARKTIK's **endorsement**, validating proficiency in accurately managing and reporting *both* traditional fiat and basic cryptocurrency financial activities according to ARKTIK's standards of integrity, transparency, and stewardship. (Commitment Pathway credential validity is conditional per Sec 7.4 of framework).
 
 ## Outcome Pathways
 
-This Practitioner/Specialist Track prepares members for essential financial administration roles:
-*   Bookkeeper
-*   Financial Assistant / Administrator
-*   Accounts Payable/Receivable Specialist
-*   Project Accountant (support level)
-*   Grant Administrator (financial reporting/tracking)
-*   Treasurer or Financial Steward for ARKTIK initiatives or small aligned businesses.
-*   Foundation for advanced tracks in Financial Analysis, Accounting, or CFP preparation. Critical for **financial transparency, sustainability, and onshoring** financial administrative functions.
+This Practitioner/Specialist Track prepares members for essential "Hybrid" financial admin roles:
+*   Bookkeeper (Handling Fiat & Crypto)
+*   Financial Assistant / Administrator (Integrated)
+*   Accounts Payable/Receivable Specialist (Integrated)
+*   Treasury Assistant (supporting digital asset management)
+*   Financial support for ARKTIK initiatives utilizing crypto-assets (e.g., Web3 projects, potentially ARKTIK ALOT using tokens).
+*   Critical role for **financial integrity across all asset types**; supports **onshoring** modern financial administration skills.
 
 ## Assessment & Mastery
 
 Mastery is assessed through:
-*   Successful completion and accuracy review of all **Module Execution Gates** (transaction processing, reconciliations, report generation within QuickBooks).
-*   Performance in the **Full Cycle Bookkeeping Simulation (ACE-FSP-490)**, emphasizing accuracy, completeness, and timeliness.
-*   Quality, organization, and clarity of the **Portfolio of Execution** (sample reports, reconciliations, analyses).
-*   Demonstrated understanding and consistent application of **ethical financial principles and ARKTIK values**.
+*   Successful completion and accuracy review of all **Module Execution Gates** (QBO tasks, crypto transaction tracking/reporting, reconciliations).
+*   Performance in the **Integrated Financial Cycle Simulation (ACE-FSP-490)**, emphasizing accuracy across both fiat and crypto elements.
+*   Quality, organization, and insights demonstrated in the **Portfolio of Execution**.
+*   Consistent application of **ethical financial principles and security best practices** for both fiat and digital assets.
 *   (Recommended) Passing the **QuickBooks Certified User** exam.
 
 ## Next Steps / How to Apply
 
-ARKTIK members with strong numerical aptitude, exceptional attention to detail, and unwavering integrity should review the prerequisites and apply through the designated A.C.E. process for the "Financial Stewardship Practitioner" track (Cycle 1 - 2025). Be prepared for a rigorous track demanding meticulous execution and ethical responsibility.
+ARKTIK members with strong numeracy, exceptional attention to detail, unwavering integrity, and an aptitude for learning financial tools (both traditional and digital asset related) should review the prerequisites and apply through the designated A.C.E. process for the "Financial Stewardship Practitioner" track (Cycle 1 - 2025). Be prepared for meticulous work requiring high levels of accuracy and trustworthiness.
 
 ## License & Compliance
 
-Refer to the main **[`ace_framework_overview.md`](../../ace_framework_overview.md)** for overarching license and compliance information. All financial activities must adhere to Generally Accepted Accounting Principles (GAAP) where applicable, ARKTIK's internal financial policies, and relevant legal/regulatory requirements.
+Refer to the main **[`ace_framework_overview.md`](../../ace_framework_overview.md)** for overarching license and compliance information. All financial activities must adhere to relevant accounting principles (GAAP where applicable), ARKTIK's internal financial policies, data security standards, and evolving legal/regulatory requirements for digital assets.
 
 ---
 **ARKTIK-ARKITEK**

@@ -69,7 +69,7 @@ Success in this technologically intensive track requires access to significant c
 1.  **Tool & Platform Access Fee:** This track involves **substantial usage of cloud resources** (AI/ML training/inference, QC credits) and potentially **paid tiers of blockchain development tools or node services**. Consequently, a periodic **Tool & Platform Access Fee** applies to **all participants** enrolled. This fee covers ARKTIK's managed cost for providing necessary platform credits and licensed tool access, plus a transparent operational overhead. Applies regardless of Commitment or Direct Tuition pathway status, unless explicitly covered by specific scholarship terms.
 2.  **Blockchain Credential Issuance Fee:** Upon successful completion, the standard, **universal nominal fee** applies for issuing your official **ARKTIK Certified Emerging Technology Integration Specialist** credential onto the blockchain.
 
-*Please refer to the official **A.C.E. Fee Schedule** document (link TBD) for current fee amounts.* Commitment Pathway participants should review Section 7.4 of the `ace_framework_overview.md` regarding conditional credential validity.
+*Please refer to the official **A.C.E. Fee Schedule** document for current fee amounts.* Commitment Pathway participants should review Section 7.4 of the `ace_framework_overview.md` regarding conditional credential validity.
 
 ## Learning Methodology
 

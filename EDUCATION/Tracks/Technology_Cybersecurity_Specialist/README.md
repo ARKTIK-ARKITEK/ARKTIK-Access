@@ -8,134 +8,129 @@
 
 ### Vision & Purpose
 
-The **Technology & Cybersecurity Specialist Track** is an advanced A.C.E. program designed to cultivate highly skilled guardians of ARKTIK's digital infrastructure. Recognizing that resilient communities depend on secure and reliable technology, this track equips members to design, implement, manage, and defend robust IT systems, including cloud environments. Participants master the principles and practices needed to protect ARKTIK's operations, data, and communications from disruption and unauthorized access, directly supporting our mission to build trustworthy, independent systems and **onshore critical cybersecurity expertise.**
+The **Technology & Cybersecurity Specialist Track** is an advanced A.C.E. program forged to cultivate vigilant and highly skilled guardians of ARKTIK's critical digital infrastructure. As our reliance on technology grows, ensuring its **resilience, integrity, and security** against evolving threats is paramount. This track equips members with the advanced knowledge and practical execution capabilities needed to design, implement, manage, and defend robust IT systems, encompassing on-premises environments and cloud platforms (**Azure & GCP**). Participants master cybersecurity principles and practices to protect ARKTIK's operations, sensitive data, and community trust, directly supporting our mission to build sovereign, trustworthy systems and **onshore vital cybersecurity expertise**.
 
 ### Focus Area
 
-Core competencies include advanced network design and security, server administration (Linux/Windows), cloud infrastructure security on Azure and GCP, comprehensive cybersecurity principles (aligned with CompTIA Security+), security operations procedures, vulnerability management, and the practical application of AI tools in security contexts.
+Core competencies include advanced network architecture and security, proficient server administration (Linux/Windows), secure cloud infrastructure deployment and management (Azure/GCP), comprehensive cybersecurity principles and controls (aligned with CompTIA Security+), foundational security operations (SecOps) procedures, vulnerability assessment and management, and the practical application of AI-enhanced tools within cybersecurity TTPs (Tactics, Techniques, and Procedures).
 
 ### Target Audience
 
 This track is designed for ARKTIK members who:
-*   Have successfully completed the A.C.E. IT Support Technician track or possess equivalent validated foundational IT knowledge (A+ level minimum, Net+ level strongly recommended).
-*   Exhibit strong analytical thinking and systematic problem-solving skills.
-*   Maintain high ethical standards and a strong sense of responsibility.
-*   Are committed to continuous learning in the rapidly evolving cybersecurity landscape.
-*   Desire to play a critical role in safeguarding ARKTIK's digital assets and infrastructure.
+*   Have successfully mastered foundational IT skills, equivalent to **A.C.E. IT Support Technician** completion or validated CompTIA A+/Network+ level competency.
+*   Possess strong analytical, systematic troubleshooting, and critical thinking abilities.
+*   Demonstrate high ethical standards, trustworthiness, and a proactive security mindset.
+*   Are committed to continuous learning required to stay ahead in the dynamic cybersecurity field.
+*   Desire to play a crucial role in defending ARKTIK's digital assets and ensuring operational continuity.
 
 ### Key Outcomes (Demonstrated Execution)
 
 Upon successful completion, members will demonstrate the ability to:
-*   Design and implement secure network architectures (VLANs, firewall rules, VPNs).
-*   Install, configure, manage, and harden Linux and Windows server environments.
-*   Deploy, manage, and secure core infrastructure services on both Azure and GCP.
-*   Apply cybersecurity principles across various domains (network, identity, data, application security).
-*   Identify, assess, and mitigate common vulnerabilities using standard tools and practices.
-*   Analyze security logs and participate in basic incident response procedures.
-*   Understand and apply AI-powered tools for threat detection and analysis where appropriate.
-*   Develop and maintain clear security documentation and operational procedures.
+*   Design, implement, and secure complex network segments using advanced configurations (VLANs, firewalls, basic routing).
+*   Install, configure, manage, harden, and monitor both Linux and Windows server environments effectively.
+*   Deploy, secure, and manage core infrastructure services within Azure and GCP cloud environments according to best practices.
+*   Apply a broad range of cybersecurity controls across network, system, identity, data, and application layers.
+*   Utilize standard tools and methodologies to identify, assess, and prioritize system vulnerabilities.
+*   Perform basic security log analysis and follow incident response fundamentals.
+*   Effectively utilize AI-powered security tools for enhanced threat detection and analysis.
+*   Develop and maintain clear, actionable security documentation, policies, and procedures.
 
 ### ARKTIK Value Integration
 
-*   **Resilience:** Architecting and defending systems against disruption and attack.
-*   **Integrity:** Protecting the confidentiality, integrity, and availability of ARKTIK data and systems; ethical conduct in all security matters.
-*   **Stewardship:** Responsible management and protection of critical digital infrastructure and sensitive information.
-*   **Accountability:** Owning the security posture of systems, responding effectively to incidents.
-*   **Precision:** Meticulous configuration, accurate threat analysis, detailed documentation.
-*   **Vigilance:** Continuous learning and adaptation to evolving threats (Strategic Adaptability).
+*   **Resilience:** Central focus – architecting and actively defending systems to withstand and recover from attacks or failures.
+*   **Integrity:** Protecting the confidentiality, integrity, and availability of ARKTIK's data and systems; operating with unwavering ethical conduct.
+*   **Stewardship:** Responsible and vigilant management of critical infrastructure, sensitive data, access controls, and security tools.
+*   **Accountability:** Taking ownership of the security posture, incident response effectiveness, and adherence to security policies.
+*   **Precision:** Meticulous system configuration, accurate threat analysis, detailed forensic readiness (data logging).
+*   **Strategic Adaptability (Vigilance):** Continuously learning about new threats and countermeasures to protect ARKTIK assets effectively.
 
 ## Prerequisites
 
-*   Verified completion of **A.C.E. Track: IT Support Technician** OR equivalent knowledge/experience validated through assessment (Strong A+ level competency required).
-*   Solid understanding of networking fundamentals (CompTIA Network+ level knowledge highly recommended).
-*   Proven analytical and troubleshooting skills.
-*   Demonstrated commitment to ARKTIK values, particularly Integrity and Accountability.
+*   Verified completion of **A.C.E. Track: IT Support Technician** OR equivalent knowledge/experience validated through rigorous assessment (**CompTIA A+ level competency minimum, Network+ level highly recommended**).
+*   Demonstrated strong analytical and systematic troubleshooting skills.
+*   Proven ability to follow complex technical procedures with precision.
+*   Unquestionable personal integrity and commitment to ARKTIK's ethical standards.
+*   Access to a computer capable of running virtualization software and handling cloud portal interfaces effectively.
+
+## Required Tools, Platforms & Associated Fees
+
+Success in this track requires hands-on experience with diverse IT infrastructure components, cloud platforms, and security tools, necessitating significant computational resources.
+
+**Essential Platforms & Tools (Managed Access via A.C.E. or Personal):**
+*   **Cloud Platforms:** Access to both **Microsoft Azure** and **Google Cloud Platform (GCP)** sandboxes or allocated resources sufficient for complex lab exercises and project deployments (involving compute, storage, networking, security services).
+*   **Virtualization Software:** Local access to Type 2 hypervisor (e.g., VirtualBox, VMware Workstation Player) or cloud-based virtual labs.
+*   **Operating Systems:** Windows Server (evaluation/dev versions), Linux Server distributions (e.g., Ubuntu Server, CentOS).
+*   **Security Tools:** Hands-on experience conceptually aligned with tools like Wireshark, Nmap, vulnerability scanners (OpenVAS/Nessus concepts), SIEM platforms (basic usage/concepts), various command-line security utilities.
+*   **Standard Collaboration Suite & PM Tools:** Asana, Google Workspace/M365, etc.
+
+**Associated A.C.E. Fees:**
+
+1.  **Tool & Platform Access Fee:** This track involves **significant usage of cloud platform resources (Azure/GCP)** beyond typical free tier limits, particularly for realistic security labs and deployment exercises. Therefore, a periodic (e.g., monthly or per-module) **Tool & Platform Access Fee** applies to **all participants** enrolled. This fee covers ARKTIK's managed cost for providing necessary cloud credits/sandbox environments plus a transparent operational overhead. Applies regardless of Commitment or Direct Tuition pathway status, unless explicitly covered by specific scholarship terms.
+2.  **Blockchain Credential Issuance Fee:** Upon successful completion, the standard, **universal nominal fee** applies for issuing your **ARKTIK Certified Technology & Cybersecurity Specialist** credential onto the blockchain.
+
+*Please refer to the official **A.C.E. Fee Schedule** document (link TBD) for current fee amounts.* Commitment Pathway participants should review Section 7.4 of the `ace_framework_overview.md` regarding conditional credential validity.
 
 ## Learning Methodology
 
-This track employs the A.C.E. execution-based model with increased complexity and rigor, utilizing the 4-Phase Module Cycle. Learning heavily involves:
-*   **Advanced Hands-On Labs:** Building complex network/server setups in virtualized and cloud environments.
-*   **Security Simulations:** Engaging in practical exercises like capture-the-flag (CTF) style challenges, vulnerability scanning/patching drills, and simulated defensive scenarios.
-*   **Tool Proficiency:** Intensive use of network analysis, security scanning, monitoring, and cloud administration tools.
-*   **Incident Response Drills:** Practicing systematic response to simulated security events.
-*   **Design & Documentation:** Creating secure architecture diagrams, configuration guides, and incident reports.
-*   **Portfolio Development:** Compiling evidence of complex configurations, security assessments, and projects.
-*   **Mentorship:** Guidance from senior ARKTIK cybersecurity or infrastructure specialists.
-*   **Integrated A.C.E. Modules:** Relevant Project Management and Advanced Ethical Leadership content will be incorporated.
+This Specialist Track utilizes the A.C.E. execution-based model (4-Phase Cycle) with high complexity and practical rigor:
+*   **Advanced Hands-On Labs:** Building, configuring, securing, and attacking/defending complex virtualized and cloud-based environments.
+*   **Security Simulations:** Engaging in Capture-the-Flag (CTF) exercises, blue team/red team scenarios, incident response drills.
+*   **Tool Mastery Workshops:** Focused sessions on proficiently using network scanners, vulnerability assessment tools, log analysis platforms, cloud security consoles, and command-line utilities.
+*   **Architecture & Design Challenges:** Designing secure network and system architectures for specific ARKTIK use cases.
+*   **Policy & Procedure Development:** Drafting security documentation based on best practices and ARKTIK values.
+*   **Portfolio Development:** Compiling evidence of secured configurations, vulnerability assessment reports, incident response plans, design documents, and capstone project results.
+*   **Mentorship:** Guidance from senior ARKTIK cybersecurity professionals and infrastructure architects.
 
 ## Track Structure (Sequence of Modules)
 
-_(Note: Module codes are indicative)_
+_(Note: Module codes indicative - Assumes Phase 3/4 entry)_
 
-1.  **`ACE-TCS-201`: Advanced Networking & Infrastructure**
-    *   *Description:* Deep dive into TCP/IP, VLANs, routing protocols (basics), VPNs, network segmentation, infrastructure hardening, network monitoring tools.
-    *   *Execution Gate:* Design, configure, and secure a multi-segment network in a virtual environment.
-
-2.  **`ACE-TCS-202`: Server Administration & Management**
-    *   *Description:* Install, configure, manage roles/features, secure (harden), and monitor Windows Server and Linux Server (e.g., Ubuntu/CentOS). Includes user/group management (Active Directory concepts/alternatives), permissions, virtualization (Hyper-V/KVM), and introductory scripting (Bash/PowerShell for automation).
-    *   *Execution Gate:* Deploy and harden both a Windows and Linux server for specific roles (e.g., web server, file server) including user access controls.
-
-3.  **`ACE-TCS-210`: Cybersecurity Principles & Controls (Security+ Focus)**
-    *   *Description:* Comprehensive coverage aligned with CompTIA Security+: Threat landscape, cryptography essentials, network security devices/protocols, identity and access management (IAM), security policies, risk management frameworks, incident response basics, compliance concepts.
-    *   *Execution Gate:* Pass rigorous practice exams simulating Security+; conduct a risk assessment for a given scenario.
-
-4.  **`ACE-TCS-301`: Cloud Infrastructure Security (Azure/GCP Focus)**
-    *   *Description:* Understanding cloud shared responsibility models, securing cloud networks (NSGs, Firewalls), configuring cloud IAM securely, encrypting data at rest/transit, securing storage and databases, leveraging cloud-native monitoring and logging (Azure Monitor/Sentinel, Google Cloud Operations Suite).
-    *   *Execution Gate:* Deploy a application stack on both Azure and GCP, implementing specified security controls and monitoring.
-
-5.  **`ACE-TCS-310`: Security Operations & Vulnerability Management**
-    *   *Description:* Introduction to Security Information and Event Management (SIEM) concepts, practical log analysis techniques, using vulnerability scanning tools (e.g., Nessus/OpenVAS concepts), interpreting scan results, patch management strategies, developing basic incident response playbooks.
-    *   *Execution Gate:* Perform a vulnerability scan on a target system, analyze results, propose remediation actions, and analyze logs for a simulated incident.
-
-6.  **`ACE-TCS-320`: AI Applications in Cybersecurity**
-    *   *Description:* Overview of AI/ML concepts relevant to security (threat detection, anomaly detection, user behavior analysis). Focus on *using* AI-powered security tools effectively (e.g., next-gen firewalls, EDR solutions, security analytics platforms). Understanding AI-driven threats (e.g., deepfakes, automated attacks). Ethical considerations of AI in security.
-    *   *Execution Gate:* Utilize an AI-enabled security tool (simulated or lab environment) to identify threats missed by traditional methods; analyze ethical scenarios.
-
-7.  **`ACE-TCS-401`: Resilient Infrastructure Design & Defense Planning**
-    *   *Description:* Designing secure and resilient architectures (on-prem, cloud, hybrid), incorporating defense-in-depth, high availability, disaster recovery concepts. Planning security controls based on risk. Capstone project definition and design phase.
-    *   *Execution Gate:* Produce a comprehensive secure infrastructure design document and defense plan for the capstone project.
-
-8.  **`ACE-TCS-490`: Capstone Execution - Secure System Deployment & Defense**
-    *   *Description:* Implement the designed secure infrastructure (Capstone Project). Includes building, hardening, deploying services, configuring monitoring, and potentially participating in a live red team/blue team style defensive exercise. Final portfolio review and presentation.
-    *   *Execution Gate:* Successful deployment and defense of the capstone system against defined objectives; comprehensive documentation and presentation.
+1.  **`ACE-TCS-201`: Advanced Networking & Infrastructure:** VLANs, routing, VPNs, network segmentation, hardening network devices, advanced TCP/IP analysis, infrastructure monitoring concepts.
+2.  **`ACE-TCS-202`: Server Administration & Management (Linux & Windows):** Secure installation/configuration, advanced user/group/permissions management (AD concepts/alternatives), scripting (Bash/PowerShell), virtualization mastery, patching/hardening servers.
+3.  **`ACE-TCS-210`: Cybersecurity Principles & Controls (Security+ Focus):** Comprehensive Security+ domain coverage: Threats/Vulnerabilities/Mitigation, Security Architecture/Design, Implementation, Operations/Incident Response, Governance/Risk/Compliance (GRC).
+4.  **`ACE-TCS-301`: Cloud Infrastructure Security (Azure/GCP Focus):** Securing cloud identities (IAM), network security (NSGs/Firewalls/VPCs), data security (encryption/storage security), platform security services, cloud logging/monitoring for security.
+5.  **`ACE-TCS-310`: Security Operations & Vulnerability Management:** SIEM usage fundamentals, log correlation/analysis, vulnerability scanning tools/interpretation, patch management strategies, threat intelligence basics, core incident response phases (Preparation, Identification, Containment, Eradication, Recovery, Lessons Learned).
+6.  **`ACE-TCS-320`: AI Applications in Cybersecurity:** Leveraging AI-powered tools for enhanced threat detection (e.g., EDR, NDR, UEBA concepts), understanding AI-driven attack vectors, ethical considerations and bias in security AI. Focus on *using* AI tools effectively.
+7.  **`ACE-TCS-401`: Resilient Infrastructure Design & Defense Planning:** Architecting for security and high availability/disaster recovery, defense-in-depth strategies, creating comprehensive security plans, Capstone project design.
+8.  **`ACE-TCS-490`: Capstone Execution - Secure System Deployment & Defense:** Implement, harden, deploy, and monitor the capstone infrastructure project. Potentially includes defending the system against simulated attacks or responding to injected security incidents. Final portfolio presentation.
 
 ## Core Technologies & Tools
 
-Advanced TCP/IP, Routing/Switching Concepts, VLANs, VPNs, Firewalls, Windows Server OS, Linux Server OS (Ubuntu/CentOS/etc.), Active Directory concepts, Bash/PowerShell Scripting, Virtualization Platforms, Azure (Core IaaS/PaaS, Security Center/Sentinel, Entra ID), GCP (Core IaaS/PaaS, Security Command Center, IAM), Infrastructure as Code concepts (Terraform/Bicep basics), Docker/Containerization basics, Network Analysis Tools (Wireshark), Vulnerability Scanners, SIEM Concepts, Standard Security Frameworks (NIST CSF basics).
+Advanced TCP/IP Networking, VLANs, Firewalls, VPNs, Windows Server, Linux Server (Ubuntu/CentOS/etc.), Active Directory / LDAP Concepts, Bash/PowerShell Scripting, Virtualization Platforms (Hyper-V/KVM/etc.), **Microsoft Azure** (Core services, Security Center/Sentinel, Entra ID), **Google Cloud Platform (GCP)** (Core services, Security Command Center, IAM), Infrastructure as Code (IaC) Concepts (Terraform/Bicep/ARM), Docker Basics, Network/Vulnerability Scanners (Nmap, OpenVAS/Nessus concepts), Packet Analysis (Wireshark), SIEM Concepts, Security Frameworks (NIST CSF basics).
 
-## Certification Alignment
+## Certification & ARKTIK Endorsement
 
-*   **Primary External:** Directly prepares participants for the **CompTIA Security+** certification.
-*   **Supports Preparation For (External):** Builds knowledge towards CompTIA Network+, CySA+, Cloud provider security certifications (e.g., **AZ-500: Microsoft Azure Security Technologies**, **Google Cloud Professional Security Engineer**), and potentially others depending on specialization.
-*   **Internal:** **ARKTIK Certified Technology & Cybersecurity Specialist**. Awarded upon successful track completion, portfolio review, capstone execution, and demonstrated ethical conduct.
+*   **Supports Preparation For (External):** Directly prepares for **CompTIA Security+**. Provides strong foundation for **CompTIA Network+** (if not previously achieved), CySA+, Pentest+ (conceptual basis), and Cloud Provider Security Certifications (**AZ-500: Microsoft Azure Security Technologies**, **Google Cloud Professional Security Engineer**).
+*   **Internal:** **ARKTIK Certified Technology & Cybersecurity Specialist**. This blockchain-verified credential serves as ARKTIK's **endorsement**, validating advanced proficiency in designing, implementing, managing, and securing IT infrastructure according to ARKTIK's rigorous standards and ethical principles. (Commitment Pathway credential validity is conditional per Sec 7.4 of framework).
 
 ## Outcome Pathways
 
-This Specialist Track prepares members for critical infrastructure and security roles:
-*   Cybersecurity Analyst (Tier 1/2)
+This Specialist Track prepares members for critical roles safeguarding ARKTIK's digital foundation:
+*   Cybersecurity Analyst (Junior to Mid-level)
 *   Cloud Security Engineer (Associate/Mid-level)
 *   Systems Administrator (Security-focused)
-*   Network Administrator (Security-focused)
-*   Security Operations Center (SOC) Analyst
+*   Network Security Engineer (Associate/Mid-level)
+*   Security Operations Center (SOC) Analyst (Tier 1/2)
 *   IT Security Specialist
-*   Provides essential talent for **onshoring** cybersecurity functions and protecting ARKTIK's digital sovereignty. Foundation for senior security/architecture roles.
+*   Foundation for senior roles in Security Architecture, Penetration Testing, or Incident Response leadership. Essential for **onshoring** advanced cybersecurity talent.
 
 ## Assessment & Mastery
 
 Mastery is assessed through:
-*   Successful completion and rigorous review of all **Module Execution Gates** (advanced labs, configurations, security tasks, simulations).
-*   Performance in the **Capstone Deployment & Defense Simulation (ACE-TCS-490)**.
-*   Depth, quality, and clarity of the **Portfolio of Execution**.
-*   Demonstrated ability to apply security principles systematically and ethically.
-*   (Strongly Recommended) Passing the **CompTIA Security+** exam.
+*   Successful completion and expert review of all **Module Execution Gates** (complex lab configurations, security simulations, design tasks, analysis reports).
+*   Performance, security posture, and response effectiveness demonstrated in the **Capstone Deployment & Defense Simulation (ACE-TCS-490)**.
+*   Depth, technical accuracy, and clarity presented in the **Portfolio of Execution**.
+*   Demonstrated ability to apply systematic troubleshooting and security principles under pressure.
+*   Consistent adherence to **ARKTIK's ethical guidelines and security policies**.
+*   (Strongly Recommended) Achieving **CompTIA Security+** certification.
 
 ## Next Steps / How to Apply
 
-ARKTIK members who have completed the IT Support Technician track (or validated equivalent knowledge) and aspire to specialize in securing our digital foundation should apply through the designated A.C.E. process for the "Technology & Cybersecurity Specialist" track (Cycle 1 - 2025). This path demands analytical rigor, continuous learning, and unwavering integrity.
+ARKTIK members who have mastered foundational IT support skills (A+ level), possess strong analytical capabilities, and are dedicated to protecting digital systems should review the prerequisites and apply through the designated A.C.E. process for the "Technology & Cybersecurity Specialist" track (Cycle 1 - 2025). This is a highly demanding track requiring continuous learning and unwavering integrity.
 
 ## License & Compliance
 
-Refer to the main **[`ace_framework_overview.md`](../ace_framework_overview.md)** for overarching license and compliance information. All activities adhere strictly to ARKTIK's ethical guidelines, security policies, and data handling protocols.
+Refer to the main **[`ace_framework_overview.md`](../../ace_framework_overview.md)** for overarching license and compliance information. All activities must adhere strictly to ARKTIK's security policies, data handling protocols, ethical hacking guidelines (where applicable in simulations), cloud provider terms of service, and relevant legal/regulatory requirements.
 
 ---
 **ARKTIK-ARKITEK**

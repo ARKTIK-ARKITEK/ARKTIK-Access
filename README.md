@@ -4,7 +4,7 @@ The public-facing hub of the ARKTIK ecosystem. Here we unite execution-based lea
 
 
 
-Mission & Vision
+## Mission & Vision
 
 
 
@@ -12,7 +12,7 @@ ARKTIK’s Mission: To provide an ARK — a sanctuary — for individuals and or
 
 
 
-Core Values:
+## Core Values:
 
 • Selflessness – Prioritizing the greater good over personal gain.
 
@@ -32,15 +32,15 @@ With these values as our foundation, ARKTIK is on a journey to restore faith-ali
 
 
 
-Repository Structure & Key Components
+## Repository Structure & Key Components
 
 
 
 ARKTIK Access is organized into modules and initiatives, each in its own folder. Below is an overview of each major component and its purpose:
 
-• EDUCATION – ARKTIK Curriculum for Education (A.C.E.). This is our execution-based, faith-driven educational framework designed to cultivate skilled stewards for resilient communities. Inside, you’ll find the A.C.E. Blueprint, learning Pathways (strategic skill domains), training Tracks from foundational to specialist levels, Workforce Programs for community upskilling, shared Resources (glossaries, guides), and info on Certifications and Portfolios. A.C.E.’s motto is “Learn by Doing. Master by Serving. Lead by Example.” – emphasizing hands-on mastery, ethical leadership, and service. This EDUCATION module is the roadmap for anyone developing practical skills under ARKTIK’s values, whether it’s sustainable agriculture, tech development, or trades – all in alignment with our faith and community needs.
+### • EDUCATION – ARKTIK Curriculum for Education (A.C.E.). This is our execution-based, faith-driven educational framework designed to cultivate skilled stewards for resilient communities. Inside, you’ll find the A.C.E. Blueprint, learning Pathways (strategic skill domains), training Tracks from foundational to specialist levels, Workforce Programs for community upskilling, shared Resources (glossaries, guides), and info on Certifications and Portfolios. A.C.E.’s motto is “Learn by Doing. Master by Serving. Lead by Example.” – emphasizing hands-on mastery, ethical leadership, and service. This EDUCATION module is the roadmap for anyone developing practical skills under ARKTIK’s values, whether it’s sustainable agriculture, tech development, or trades – all in alignment with our faith and community needs.
 
-• ARKTIK_LIFESTYLE – Faith, Fellowship & Fun. ARKTIK Lifestyle is the heart of leisure and fellowship in our community. It offers family-friendly, high-energy activities and events as a sanctuary away from worldly distractions. Here, members relax and connect without compromising faith or integrity. From outdoor adventures (faith-based hiking, camping, survival training) and community sports outings, to recreational gatherings like “Heritage Skate Nights” and ARKTIK Park Days, all activities are built on four principles: Faith-Centered Fun, Family & Community Bonding, Pure Enjoyment (no hidden agendas), and Physical & Mental Refreshment. ARKTIK Lifestyle ensures that fun and recreation remain aligned with our values. In this folder you’ll also find guidelines like membership standards, participation ethics, and family-friendly policies that keep our events wholesome and welcoming. (No work or networking here – just genuine fellowship and joy!).
+### • ARKTIK_LIFESTYLE – Faith, Fellowship & Fun. ARKTIK Lifestyle is the heart of leisure and fellowship in our community. It offers family-friendly, high-energy activities and events as a sanctuary away from worldly distractions. Here, members relax and connect without compromising faith or integrity. From outdoor adventures (faith-based hiking, camping, survival training) and community sports outings, to recreational gatherings like “Heritage Skate Nights” and ARKTIK Park Days, all activities are built on four principles: Faith-Centered Fun, Family & Community Bonding, Pure Enjoyment (no hidden agendas), and Physical & Mental Refreshment. ARKTIK Lifestyle ensures that fun and recreation remain aligned with our values. In this folder you’ll also find guidelines like membership standards, participation ethics, and family-friendly policies that keep our events wholesome and welcoming. (No work or networking here – just genuine fellowship and joy!).
 
 • ARKTIK MicroFarms – Local Food Security & Community Farming. This section contains the blueprint for ARKTIK’s micro-farming initiative, which is transforming backyards and vacant lots into sustainable micro-farms. ARKTIK MicroFarms is structured as a “Public Wealth Charity” project to enhance food security and economic self-sufficiency at the grassroots level. Here you’ll find the Project Overview (mission, vision, strategic plan for micro-farms), guides on Stakeholder Engagement (building neighborhood trust and involving local families), Technology Integration (introducing efficient farming tech and possibly IoT in micro-farming), Legal & Compliance considerations for urban farming, Marketing & Communications plans to promote community farmers’ markets, Training & Education materials for new micro-farmers, as well as Maintenance Protocols and MicroFarm Setup manuals. ARKTIK MicroFarms embodies our goal of enhancing food sovereignty: it helps communities install and maintain small-scale farms, ensuring year-round access to fresh, nutritious food, boosting local economies by supporting farmers and gardeners, and creating a model of charity that empowers people to feed themselves and their neighbors.
 
@@ -58,7 +58,7 @@ Each of these folders is a rich well of information, instructions, and inspirati
 
 
 
-Getting Involved
+## Getting Involved
 
 
 
@@ -84,7 +84,7 @@ Join us – the time is now. Whether you contribute to the code, the content, or
 
 
 
-License
+## License
 
 
 

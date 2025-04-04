@@ -1,5 +1,5 @@
-# Welcome to ARKTIK Access, 
-the public-facing hub of the ARKTIK ecosystem. Here we unite execution-based learning, structured membership, and community engagement to build a sovereign, sustainable future aligned with our faith-driven values. ARKTIK Access is your landing point for everything ARKTIK – from educational pathways and local microfarm projects to governance documents and lifestyle activities – all centered on stewardship, integrity, and resilience.
+# Welcome to ARKTIK Access
+The public-facing hub of the ARKTIK ecosystem. Here we unite execution-based learning, structured membership, and community engagement to build a sovereign, sustainable future aligned with our faith-driven values. ARKTIK Access is your landing point for everything ARKTIK – from educational pathways and local microfarm projects to governance documents and lifestyle activities – all centered on stewardship, integrity, and resilience.
 
 
 

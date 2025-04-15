@@ -8,135 +8,126 @@
 
 ### Vision & Purpose
 
-The **Audio Engineering Track** within the ARKTIK Curriculum for Education (A.C.E.) is dedicated to cultivating highly skilled practitioners mastering the art and science of sound, utilizing **industry-standard Digital Audio Workstations (DAWs)** to produce professional-quality audio for all ARKTIK media. Emphasizing **Craftsmanship and Precision**, this track trains participants to record, edit, mix, and master audio for podcasts, video productions (film/news), educational content, and potentially music, ensuring clarity, impact, and technical excellence. Graduates become crucial stewards of ARKTIK's sonic identity, supporting effective communication aligned with our mission and the **onshoring** of specialized media production roles.
+The **Audio Engineering Track** is an A.C.E. program dedicated to cultivating skilled practitioners mastering the art and science of sound, utilizing robust, **cross-platform, industry-relevant Digital Audio Workstations (DAWs)** to produce professional-quality audio for ARKTIK media. In alignment with ARKTIK's strategy to foster an independent and accessible tech ecosystem, this track focuses primarily on **Avid Pro Tools** (as a dominant standard in post-production and mixing) and **Reason Studios Reason** (for its unique synthesis, sound design, and electronic music capabilities). Participants develop the **Craftsmanship** and **Precision** needed for impactful sonic communication, supporting ARKTIK's mission, professionalizing its media output, and contributing to the **onshoring** of specialized audio production roles using widely applicable, non-Apple-exclusive tools.
 
 ### Focus Area
 
-Core competencies include deep understanding of acoustics and digital audio principles, proficient microphone techniques, signal flow mastery, advanced operation of **Avid Pro Tools** (for core recording, editing, mixing, post-production workflows), practical application of **Apple Logic Pro** (for macOS-based music creation and scoring), exploration of **Reason Studios Reason** (for synthesis and unique production approaches), precision audio editing, sophisticated mixing (EQ, dynamics, effects, automation), audio post-production for video, and mastering fundamentals.
+Core competencies include digital audio principles, microphone techniques, signal flow mastery, deep proficiency in **Pro Tools** for recording, editing, mixing, and post-production workflows, practical application of **Reason** for synthesis, beat creation, and creative sound design, precision audio editing, advanced mixing techniques (EQ, dynamics, effects, automation), mastering fundamentals, and audio post-production for video standards.
 
 ### Target Audience
 
 This track is designed for ARKTIK members who possess:
-*   An exceptional ear for detail and strong critical listening skills.
-*   Significant technical aptitude and the capacity to master complex software/hardware interfaces.
-*   Patience, persistence, and meticulousness required for detailed audio manipulation.
-*   A passion for high-quality sound, whether in music, film, podcasting, or other media.
-*   Commitment to achieving professional audio standards through rigorous execution.
-*   **Access to necessary hardware/software (defined below) is non-negotiable.**
+*   A critical ear and high attention to sonic detail.
+*   Strong technical aptitude for mastering complex software/hardware.
+*   Patience and discipline for meticulous editing and mixing.
+*   A passion for sound quality across music, film, podcasting, or other media.
+*   Commitment to professional standards through rigorous execution.
+*   **Access to required hardware and licensed software (Pro Tools, Reason) is essential.**
 
 ### Key Outcomes (Demonstrated Execution)
 
-Upon successful completion, participants will demonstrate the ability to:
-*   Engineer and execute professional-quality recording sessions.
-*   Operate Avid Pro Tools with high proficiency for complex recording, editing, mixing, and post-production.
-*   Utilize Apple Logic Pro effectively for MIDI sequencing, virtual instrument composition, and mixing within macOS.
-*   Employ Reason Studios Reason for synthesis, sound design, and electronic music production workflows.
-*   Perform precise, detailed audio editing (dialogue cleanup, timing/pitch correction, comping).
-*   Craft well-balanced, clear, dynamic, and spatially appropriate mixes using advanced techniques.
-*   Execute foundational mastering processes for various delivery platforms.
-*   Implement comprehensive audio post-production workflows for video, including synchronization and mixing.
+Upon successful completion, members will demonstrate the ability to:
+*   Engineer professional-quality recording sessions, primarily using Pro Tools.
+*   Operate Avid Pro Tools with high proficiency for complex editing, mixing, and audio post-production tasks.
+*   Utilize Reason Studios Reason effectively for sound design, synthesis, and electronic music creation workflows.
+*   Execute precise audio editing tasks to professional clarity standards.
+*   Craft well-balanced, impactful mixes using advanced techniques in Pro Tools.
+*   Perform fundamental mastering processes for various delivery platforms.
+*   Implement audio post-production workflows for video using Pro Tools.
 
 ### ARKTIK Value Integration
 
-*   **Craftsmanship & Precision:** The very essence of audio engineering – meticulous editing, nuanced mixing, striving for sonic excellence.
-*   **Quality:** Directly responsible for the technical quality, clarity, and impact of ARKTIK's auditory communications.
-*   **Stewardship:** Careful handling of audio equipment, diligent management of complex DAW sessions and assets, using sound to faithfully serve the intended message.
-*   **Integrity:** Authentic sound representation, ethical use of processing, maintaining audio fidelity.
-*   **Accountability:** Delivering technically sound, polished audio products meeting deadlines and professional standards.
-*   **Mastery:** Deeply learning sophisticated tools and acoustic principles through dedicated practice and execution.
+*   **Craftsmanship & Precision:** Central to achieving professional audio quality through meticulous use of Pro Tools and Reason.
+*   **Quality:** Ensuring ARKTIK communications meet high standards of audio clarity and impact.
+*   **Stewardship:** Responsible use of equipment and software licenses; managing digital audio assets effectively.
+*   **Integrity:** Authentic sound representation; ethical use of audio processing techniques.
+*   **Accountability:** Delivering technically excellent, polished audio products reliably.
+*   **Strategic Adaptability:** Mastering powerful, cross-platform tools relevant across diverse industry applications beyond a single vendor's ecosystem.
 
 ## Prerequisites
 
 *   Successful completion of **A.C.E. Phase 0: ARKTIK Foundations & Digital Readiness**.
-*   Demonstrated **good hearing and critical listening aptitude** (potentially via assessment).
-*   **Strong computer proficiency**, including efficient file management (handling large audio projects).
-*   High attention to detail, patience, and commitment to meticulous work.
-*   **Essential:** Confirmed and consistent access throughout the track to the required hardware and software licenses (see below).
+*   Demonstrated **good hearing and critical listening aptitude** (may require assessment).
+*   **Strong computer proficiency**, including efficient file management for large projects.
+*   High attention to detail and capacity for focused technical work.
+*   **Essential:** Confirmed and consistent access throughout the track to the required hardware and licensed software (Pro Tools, Reason), managed via A.C.E.
 
 ## Required Tools, Platforms & Associated Fees
 
-Success in this demanding track requires consistent access to professional-grade audio hardware, specific licensed software, and a capable computer system.
+Success requires access to specific professional DAWs, capable hardware, and quality monitoring tools.
 
 **Essential Software/Platforms (Managed Access via A.C.E.):**
-*   **Primary DAWs:** Avid Pro Tools (Subscription required, iLok security key may be needed), Apple Logic Pro (macOS & License required), Reason Studios Reason (Subscription/License required). Specific required versions will be outlined per cycle.
-*   _(Certain high-quality audio plugins (EQ, Compression, Reverb) beyond DAW stock plugins may be introduced and potentially required for advanced modules - details provided within)._
+*   **Primary DAWs:** Avid Pro Tools (Subscription required, iLok may be needed), Reason Studios Reason (Subscription/License required). Specific required versions outlined per cycle.
+*   _(High-quality audio plugins beyond stock DAW offerings may be introduced/required in advanced modules - details provided within)._
 
 **Essential Hardware:**
-*   A **high-performance computer** meeting the rigorous specifications for professional DAWs (Modern multi-core CPU, High RAM - 32GB+ recommended, Fast SSD storage, adequate graphics for DAW interface). **macOS is mandatory for Logic Pro modules.**
-*   A quality multi-channel **Audio Interface** with reliable low-latency drivers, microphone preamps, and phantom power (+48V).
-*   Professional **Studio Headphones** (closed-back, neutral frequency response) for accurate monitoring, editing, and critical listening (ESSENTIAL).
-*   At least one quality **Microphone** (e.g., Large Diaphragm Condenser for voice/studio, potentially Dynamic for other sources) suitable for module exercises.
-*   *(Strongly Recommended):* Studio Monitors (speakers) in a space with basic acoustic treatment for mixing/mastering; MIDI Keyboard/Controller (especially for Logic/Reason modules).
+*   A **high-performance computer** (Windows or macOS) meeting rigorous specs for Pro Tools and Reason (Modern CPU, High RAM, Fast SSD Storage).
+*   A quality **Audio Interface** with reliable low-latency drivers and phantom power.
+*   Professional closed-back **Studio Headphones** (ESSENTIAL for critical listening/editing).
+*   At least one quality **Microphone** suitable for voice recording exercises.
+*   *(Strongly Recommended):* Studio Monitors (speakers) and basic acoustic treatment; MIDI Keyboard/Controller (especially for Reason modules).
 
 **Associated A.C.E. Fees:**
 
-1.  **Tool & Platform Access Fee:** This track necessitates access to **multiple professional DAW licenses (Pro Tools, Logic Pro, Reason)** and potentially specialized plugins with significant external costs. Therefore, a periodic (e.g., monthly or per-module) **Tool & Platform Access Fee** applies to **all participants** enrolled. This fee covers ARKTIK's managed cost for providing necessary software access plus a transparent operational overhead. Applies regardless of Commitment or Direct Tuition pathway status, unless explicitly covered by specific scholarship terms.
-2.  **Blockchain Credential Issuance Fee:** Upon successful completion of the entire track, the standard, **universal nominal fee** applies for issuing your official **ARKTIK Certified Audio Engineer** credential onto the blockchain.
+1.  **Tool & Platform Access Fee:** This track necessitates access to **professional licensed DAWs (Pro Tools, Reason)** and potentially specialized plugins. A periodic **Tool & Platform Access Fee** applies to **all participants**. This covers ARKTIK's managed cost for software access plus transparent operational overhead. Applies regardless of Commitment or Direct Tuition pathway status, unless covered by specific scholarship terms.
+2.  **Blockchain Credential Issuance Fee:** Upon successful completion, the standard, **universal nominal fee** applies for issuing your official **ARKTIK Certified Audio Engineer** credential onto the blockchain.
 
-*Please refer to the official **A.C.E. Fee Schedule** document (link TBD) for current fee amounts.* Commitment Pathway participants should review Section 7.4 of the `ace_framework_overview.md` regarding conditional credential validity.
+*Please refer to the official **A.C.E. Fee Schedule** document (link TBD) for current fee amounts.* Commitment Pathway participants review `ace_framework_overview.md` Sec 7.4 re: conditional validity.
 
 ## Learning Methodology
 
-This track employs the A.C.E. execution-based model (4-Phase Cycle) through intensive hands-on practice within Pro Tools, Logic Pro, and Reason:
-*   **DAW Mastery Labs:** Structured exercises focusing on specific workflows within each DAW (recording setup, editing techniques, mixing strategies, post-production sync, music creation tools).
-*   **Recording Workshops:** Practical application of microphone techniques and gain staging using Pro Tools.
-*   **Editing & Mixing Projects:** Working with diverse multi-track sessions (dialogue, podcast, simple music, film stems) to develop precision editing and sophisticated mixing skills.
-*   **Critical Listening Development:** Specific exercises designed to train the ear to identify frequencies, dynamic issues, spatial problems, and distortion.
-*   **Creative Application (Logic/Reason):** Exploring synthesis, sampling, MIDI sequencing, and beat creation for music or sound design elements.
-*   **Portfolio Curation:** Building a professional portfolio showcasing high-quality recordings, edits, mixes, masters, and potentially creative sound work.
-*   **Mentorship:** Guidance from seasoned audio engineers proficient in the track's core DAWs.
+Intensely **hands-on and execution-based** within Pro Tools and Reason, following the A.C.E. 4-Phase Cycle: DAW proficiency labs, practical recording workshops (Pro Tools), extensive editing/mixing projects (Pro Tools primary, Reason for specific tasks), critical listening training, Reason-focused synthesis/beat creation exercises, post-production scenarios (Pro Tools), mastering practice, and building a professional portfolio showcasing diverse audio skills.
 
 ## Track Structure (Sequence of Monthly A.C.E. Skill Intensives / Courses)
 
-_(Note: Module codes indicative; assumes Phase 2/3 entry. Uses Pro Tools as foundational workflow spine.)_
+_(Note: Module codes indicative; assumes Phase 2/3 entry. Pro Tools as core workflow, Reason for creative expansion.)_
 
 1.  **`ACE-AE-201`: Pro Tools Fundamentals & Digital Audio Principles:** DAW concepts via Pro Tools interface, session setup, signal flow, basic recording/editing, digital audio theory.
-2.  **`ACE-AE-210`: Recording Techniques & Microphone Practices (Pro Tools):** Mic techniques (voice focus), gain staging, Pro Tools recording/comping workflows, room acoustics basics.
-3.  **`ACE-AE-220`: Precision Editing & Workflow (Pro Tools):** Advanced Pro Tools editing (Elastic Audio, Beat Detective concepts), dialogue editing mastery, audio cleanup/noise reduction.
-4.  **`ACE-AE-301`: Mixing Principles I - Levels, Panning & EQ (Pro Tools Primarily):** Gain structure, balance, panning, deep dive into EQ using Pro Tools plugins, comparative EQ concepts in Logic/Reason.
-5.  **`ACE-AE-310`: Mixing Principles II - Dynamics & Effects (Pro Tools Primarily):** Dynamics processing mastery (Compression etc.) in Pro Tools, time-based effects, automation deep dive. Comparative workflows in Logic/Reason effects.
-6.  **`ACE-AE-315`: Music Creation Workflows (Logic Pro & Reason Focus):** Logic Pro's MIDI/Software Instruments/Arrangement tools (macOS Req.). Reason's Rack, synthesis, routing basics for electronic production/sound design.
-7.  **`ACE-AE-320`: Audio Post-Production for Video (Pro Tools Focus):** Industry workflows for sync, dialogue editing/mixing for picture, basic SFX/Foley/Ambiance layering, stem preparation using Pro Tools.
-8.  **`ACE-AE-330`: Mastering Fundamentals & Delivery:** Mastering concepts, basic mastering chain (EQ/Comp/Limiting) in Pro Tools/Logic, LUFS targeting, dithering, final export formats.
-9.  **`ACE-AE-490`: Capstone Execution - Professional Audio Production:** Complete significant audio project (podcast series, short film audio post, music EP) using primary chosen DAW (PT, Logic, or Reason), demonstrating comprehensive skills and professional quality.
+2.  **`ACE-AE-210`: Recording Techniques & Microphone Practices (Pro Tools):** Mic techniques (voice focus), gain staging, Pro Tools recording workflows, room acoustics basics.
+3.  **`ACE-AE-220`: Precision Editing & Workflow (Pro Tools):** Advanced Pro Tools editing (Elastic Audio, etc.), dialogue editing mastery, audio cleanup/noise reduction.
+4.  **`ACE-AE-301`: Mixing Principles I - Levels, Panning & EQ (Pro Tools):** Gain structure, balance, panning, EQ techniques using Pro Tools stock/standard plugins.
+5.  **`ACE-AE-310`: Mixing Principles II - Dynamics & Effects (Pro Tools):** Dynamics processing (Compression etc.) in Pro Tools, time-based effects (Reverb, Delay), automation techniques.
+6.  **`ACE-AE-315`: Creative Sound Design & Production (Reason Focus):** Exploring Reason's Rack, synthesis (Subtractor, Thor basics), sampling (NN-XT basics), drum machines (Kong/Redrum), creative effects routing for music/sound design.
+7.  **`ACE-AE-320`: Audio Post-Production for Video (Pro Tools Focus):** Standard workflows for sync, dialogue editing/mixing, basic SFX/ambiance layering, stem preparation using Pro Tools. Loudness standards.
+8.  **`ACE-AE-330`: Mastering Fundamentals & Delivery:** Mastering concepts/chain (EQ/Comp/Limiting) in Pro Tools context, LUFS targets, dithering, final export formats.
+9.  **`ACE-AE-490`: Capstone Execution - Professional Audio Production:** Complete significant audio project using chosen primary DAW (likely Pro Tools for post/mix, Reason for electronic music/sound design). E.g., ARKTIK podcast series, short film audio post, music tracks. Demonstrates comprehensive skills.
 
 ## Core Technologies & Tools
 
-Avid Pro Tools, Apple Logic Pro (macOS required), Reason Studios Reason, Microphones (various), Audio Interfaces, Studio Headphones (ESSENTIAL), Studio Monitors (Recommended), MIDI Controllers (Recommended), Standard Audio Cables/Connectors, Capable Computer (Mac/Win - spec dependent), iLok (likely for Pro Tools).
+Avid Pro Tools, Reason Studios Reason, Microphones, Audio Interfaces, Studio Headphones (ESSENTIAL), Studio Monitors (Recommended), MIDI Controllers (Recommended), Capable Computer (Win/Mac), iLok (potentially for Pro Tools).
 
 ## Certification & ARKTIK Endorsement
 
-*   **Supports Preparation For (External):** Directly relevant for **Avid Certified User for Pro Tools** (and potentially higher levels). Concepts support **Apple Certified Pro - Logic Pro**. A high-quality demo reel/portfolio is the primary industry validator. Could align with Dante Certification (Levels 1 & 2).
-*   **Internal:** **ARKTIK Certified Audio Engineer**. This blockchain-verified credential serves as ARKTIK's **endorsement**, validating mastery in professional audio recording, editing, mixing, and basic mastering using specified industry-standard DAWs, meeting ARKTIK's high standards for technical quality and craftsmanship. (Commitment Pathway credential validity is conditional per Sec 7.4 of framework).
+*   **Supports Preparation For (External):** Directly relevant for **Avid Certified User/Operator for Pro Tools**. Concepts applicable widely. Portfolio is key industry validator. Potentially relevant for **Dante Certification** (Levels 1&2).
+*   **Internal:** **ARKTIK Certified Audio Engineer**. Blockchain-verified **endorsement** validating mastery in professional audio production using Pro Tools and Reason, meeting ARKTIK's quality standards. (Commitment Pathway credential validity conditional).
 
 ## Outcome Pathways
 
-This Specialist Track prepares members for technical audio production roles:
-*   Audio Editor (Dialogue, Podcast, Video)
+Prepares members for technical audio production roles:
+*   Audio Editor / Sound Editor
 *   Podcast Producer / Engineer
-*   Sound Recordist (Assistant/Junior)
-*   Mixing Engineer (Junior/Mid-level - Music/Post focus varies with specialization)
+*   Recording Engineer (Assistant/Junior)
+*   Mixing Engineer (Junior/Mid - Post/Music focus)
 *   Audio Post-Production Engineer / Assistant
-*   Music Producer / Beat Maker (if focused on Logic/Reason)
-*   Sound Designer (Entry-level)
-*   Crucial technical support for all ARKTIK media; supports **onshoring** specialized audio production talent.
+*   Music Producer / Sound Designer (esp. with Reason focus)
+*   Supports **onshoring** specialized audio roles crucial for high-quality media.
 
 ## Assessment & Mastery
 
-Mastery is assessed rigorously through practical execution and critical listening:
-*   Successful completion and technical evaluation of all **Module Execution Gates** (e.g., quality of recordings, precision of edits, balance/clarity of mixes, correct DAW operation).
-*   Technical excellence, sonic quality, and adherence to professional standards demonstrated in the **Capstone Audio Production Project (ACE-AE-490)**.
-*   Proficiency and workflow efficiency within **Pro Tools, Logic Pro, and Reason** assessed via practical exercises and project reviews.
-*   Quality, diversity, and technical skill shown in the **Portfolio of Execution**.
-*   **Critical listening ability**, evaluated through feedback on mixes and technical diagnostic tasks.
+Assessed through rigorous practical execution:
+*   Successful completion/review of **Module Execution Gates** (recordings, edits, mixes, DAW tasks).
+*   Technical quality demonstrated in the **Capstone Audio Production Project**.
+*   Proficiency/workflow efficiency within **Pro Tools and Reason**.
+*   Quality/diversity of work in the **Portfolio of Execution**.
+*   Demonstrated **critical listening skills**.
 
 ## Next Steps / How to Apply
 
-ARKTIK members with the prerequisite technical aptitude, critical listening skills, required hardware/software access (crucial!), and a dedication to sonic craftsmanship should inquire about the application process for the "Audio Engineering" track (Cycle 1 - 2025). Prepare for an intensive track demanding significant technical learning and ear training.
+ARKTIK members with prerequisites (Phase 0, hearing aptitude, tech skills) and **confirmed access to required hardware/software licenses** should apply via the designated A.C.E. process for the "Audio Engineering" track (Cycle 1 - 2025). Prepare for intensive technical learning and ear training.
 
 ## License & Compliance
 
-Refer to the main **[`ace_framework_overview.md`](../../ace_framework_overview.md)** for overarching license and compliance information. Adherence to software licensing terms (Avid, Apple, Reason Studios, plugins) is mandatory. All audio work must respect copyright laws regarding music composition, samples, and sound effects.
+Refer to the main **[`ace_framework_overview.md`](../../ace_framework_overview.md)**. Adherence to software licensing (Avid, Reason Studios, plugins) is mandatory. Respect copyright for all audio used/created.
 
 ---
 **ARKTIK-ARKITEK**

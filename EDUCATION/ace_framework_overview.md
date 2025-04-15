@@ -1,112 +1,121 @@
 # ARKTIK Curriculum for Education (A.C.E.) - Regenerative Skills Framework Overview
 
-_[Version: 1.0 - 2025 Cycle]_
+_[Version: 1.4 - 2025 Cycle - Integrated K-12 & Adult/Prof Dev Model]_
 
-## 1. Vision: Forging Hybrid Stewards for Resilient Communities
+## 1. Vision: Forging Holistic, Skilled Stewards for Authentic Contribution
 
-The **ARKTIK Curriculum for Education (A.C.E.)** is ARKTIK's proprietary **execution-based, faith-driven education framework**. It is engineered with precision to forge **Hybrid Stewards**: individuals equipped with **practical mastery**, **verifiable real-world competency**, **unwavering ethical character**, and the capacity for **sustainable self-sufficiency**. A.C.E. provides **accessible and rigorous pathways** for diverse individuals to become highly skilled, principled contributors aligned with ARKTIK's mission and **THE ETERNAL ONE**.
+The **ARKTIK Curriculum for Education (A.C.E.)** is ARKTIK's proprietary **execution-based, faith-driven education framework**. It is engineered with precision to forge **Holistic Stewards**: individuals demonstrating deep **practical mastery**, **verifiable real-world competency**, **unwavering ethical character**, and the capacity for **sustainable self-sufficiency**. Serving **both homeschool students (Grades 6-12) and adult learners/professionals**, A.C.E. uniquely integrates daily study of **core academic subjects (for K-12, designed for alignment with established educational standards)** with **intensive monthly skill development courses ("A.C.E. Skill Intensives")** applicable across ages. This approach cultivates well-rounded individuals prepared for impactful contribution primarily in the **domestic US economy (supporting onshoring)** and potentially within the ARKTIK ecosystem, all grounded in alignment with **THE ETERNAL ONE**.
 
-We integrate essential **technical expertise** (spanning foundational IT, advanced systems programming with Rust, Cloud Architecture, AI/Blockchain integration, media production, and skilled trades), **practical business acumen** (Project Management, Financial Stewardship, Operations Analysis using tools like Asana & Salesforce), and **principled leadership**. Our primary aim is to **regenerate skilled work domestically**, creating robust career pathways that strengthen local communities and reduce reliance on fragile global systems, establishing a model for global replication.
-
-A.C.E. is not passive learning; it is **transformation through disciplined execution**. Advancement is earned, competency rigorously validated, culminating in ARKTIK's verifiable **endorsement** of proven ability to execute with integrity and skill.
+A.C.E. is built on the principle that **competency is proven through action**. Advancement requires **demonstrated execution**, culminating in ARKTIK's verifiable **endorsement** of an individual's ability to deliver results with integrity and skill.
 
 **Motto:** _Learn by Doing. Master by Serving. Lead by Example._
 
 ## 2. Core Principles of A.C.E.
 
-The Regenerative Skills Framework is built upon these non-negotiable principles:
+This framework operates upon these foundational principles, demanded of all participants:
 
-*   **2.1 Mastery Through Execution:** Competency is forged through rigorous application. Learning centers on real-world tasks, measurable outcomes, and building a comprehensive Portfolio of Execution. Quality, precision, and craftsmanship are paramount.
-*   **2.2 Faith-Driven Accountability & Ethical Leadership:** All learning and execution are inseparable from ARKTIK's core values and ethical framework, guided by alignment with THE ETERNAL ONE. Emphasis on integrity, stewardship, empathy, and radical accountability.
-*   **2.3 Accessible Pathways & Inclusivity:** A.C.E. offers multiple engagement models (Commitment-Based and Direct Tuition) and tiered programs to accommodate diverse backgrounds, ensuring opportunity for all committed individuals.
-*   **2.4 Career & Community Readiness (Onshoring Focus):** Curriculum is strategically designed around skills vital for rebuilding domestic capabilities and supporting local economies, preparing participants for immediate, impactful contribution.
-*   **2.5 Holistic Integration:** Technical skills are developed alongside critical thinking, communication, collaboration, project management, financial literacy, business process understanding, and ethical leadership.
-*   **2.6 Strategic Adaptability & Optimalism:** A.C.E. continuously evolves, refining content and methods to remain aligned with ARKTIK's mission and technological realities, ruthlessly pruning the non-essential.
-*   **2.7 Stewardship & Community Focus:** Skills are developed as a trust, to be used responsibly for building resilient systems, fostering community well-being, and contributing positively to ARKTIK's mission.
+*   **2.1 Mastery Through Execution:** Learning is centered on completing real-world relevant tasks and projects. Competency is measured by the demonstrated ability to execute skills reliably and effectively to a high standard of quality, precision, and craftsmanship, documented in a Portfolio of Execution.
+*   **2.2 Faith-Driven Accountability & Ethical Leadership:** All activities are guided by ARKTIK's core values (Integrity, Stewardship, Empathy, Accountability, Transparency, Resilience) and ethical principles derived from alignment with THE ETERNAL ONE. Character development and principled decision-making are integral.
+*   **2.3 Accessible Pathways & Inclusivity:** A.C.E. offers multiple engagement models (Commitment-Based Scholarship, Direct Tuition) and tiered programs to accommodate diverse backgrounds, ages, and learning goals, ensuring rigorous opportunity for all committed individuals who meet execution standards. Recognition of Prior Learning (RPL) is available for adult learners.
+*   **2.4 Career & Community Readiness (Onshoring Focus):** Curriculum strategically develops skills vital for rebuilding domestic capabilities and thriving in the modern economy, preparing participants for immediate, valuable contribution in the broader US job market or within ARKTIK.
+*   **2.5 Holistic Integration:** Intentionally balances broad academic knowledge (Core Curriculum for K-12) with deep, applied skill mastery (Skill Intensives for all). Cross-cutting components ensure well-rounded development.
+*   **2.6 Strategic Adaptability & Optimalism:** A.C.E. continuously evolves, refining its offerings based on mission alignment, participant feedback, technological relevance, and accreditation goals, focusing on value and pruning the non-essential.
+*   **2.7 Stewardship & Community Focus:** Skills and knowledge are developed as a trust, applied responsibly towards building resilient systems, fostering community well-being, and contributing ethically.
 
-## 3. The A.C.E. Journey: A Phased, Competency-Driven Pathway
+## 3. The A.C.E. Journey: Integrated Learning for All Ages
 
-A.C.E. structures learning through progressive phases based on demonstrated mastery:
+The A.C.E. journey integrates distinct learning rhythms within a competency-based phased progression:
 
-*   **Phase 0: ARKTIK Foundations & Digital Readiness (Gateway):** Establishes shared understanding of ARKTIK mission/values and essential digital literacy/workflow habits. Mandatory for most new entrants.
-*   **Phase 1: Foundational Skills Tracks (Building Blocks):** Offers focused programs providing accessible entry points to essential job roles (e.g., IT Support, Business Ops Assistant, Web Content Assistant), leading to initial competency and contribution.
-*   **Phase 2: Practitioner Development Modules (Deepening Expertise):** Focused modules covering specific high-value domains (e.g., Rust Programming, Cloud Services, Salesforce Admin, Asana Project Management, Blockchain Concepts, Regenerative Agriculture techniques, Media Production skills). Accessible after Phase 1 or via competency validation.
-*   **Phase 3: Integrated Application & Specialization (Synthesizing Skills):** Project-based sprints requiring the integration of skills from multiple Phase 2 modules to solve complex, ARKTIK-relevant problems. Specialization toward advanced roles or the "Hybrid Steward" profile begins here.
-*   **Phase 4: Capstone Execution & Contribution (Mastery Demonstration):** A significant capstone project, business incubation initiative, or high-level apprenticeship demonstrating comprehensive mastery, strategic application, and readiness for high-impact roles.
-*   **Phase 5: Continuous Contribution & Stewardship (Lifelong Engagement):** Seamless transition into active roles, coupled with ongoing learning, mentoring others, and contributing to the evolution of ARKTIK and A.C.E.
+*   **K-12 Homeschool Participants (Grades 6-12):** Engage in **daily Core Curriculum Studies** (LA, MA, SCI, HIST, etc.) designed for alignment with established educational standards (e.g., TEA/TEKS), ensuring academic breadth. Concurrently, participate in sequential, **monthly A.C.E. Skill Intensives** focusing on practical skill deliverables within chosen Tracks.
+*   **Adult / Professional Development Participants:** Focus primarily on sequences of **A.C.E. Skill Intensives** for career change, upskilling, or specialization, typically entering after Phase 0 (or validation via RPL). Core academic studies are generally considered prerequisites met through prior education. Progression pace is based on demonstrated execution.
+
+**Progression Phases (Approximate & Competency-Based):**
+
+*   **Phase 0: ARKTIK Foundations & Digital Readiness (Gateway):** Values, ethics, digital literacy, core workflow tools (Git/CLI), A.C.E. methods.
+*   **Phase 1: Foundational Skills Development (Building Blocks):** Core Curriculum (K-12) + Foundational Skill Intensives for essential job roles. Foundational entry point for many adults.
+*   **Phase 2: Practitioner Development (Deepening Expertise):** Core Curriculum (K-12) + Practitioner-level Skill Intensives. Adults often enter/focus here.
+*   **Phase 3: Integrated Application & Specialization (Synthesizing Skills):** Multi-month projects or advanced Skill Intensives requiring synthesis across domains. GT enrichment applicable here.
+*   **Phase 4: Capstone Execution & Contribution (Mastery Demonstration):** Major project, incubation, or apprenticeship proving comprehensive mastery and readiness for high-impact roles.
+*   **Phase 5: Continuous Contribution & Stewardship (Lifelong Engagement):** Active roles, ongoing learning, mentorship within the ARKTIK ecosystem.
 
 ## 4. A.C.E. Structural Elements
 
-*   **4.1 Pathways:** Broad, mission-aligned strategic arenas guiding skill development (e.g., Design & Development, Sustainable Resources, Business & Operational Excellence, Communications & Media). See `Pathways/README.md`.
-*   **4.2 Tracks:** Specific, comprehensive learning programs within Pathways, guiding participants through A.C.E. phases to achieve defined competencies and role readiness. Includes Foundational and Practitioner/Specialist levels. See `Tracks/README.md` for the full catalog.
-*   **4.3 Modules:** The core units of learning within Tracks, each following the A.C.E. 4-Phase Cycle: **1. Foundation & Principles -> 2. Application & Practice -> 3. Execution & Demonstration (Execution Gate) -> 4. Integration & Reflection.**
-*   **4.4 Execution Gates:** Verifiable demonstrations of mastery required to progress between modules and phases. Quality, precision, and value alignment are key evaluation criteria.
+*   **4.1 Core Curriculum (K-12 Focus):** Provides academic breadth for grades 6-12, designed with the goal of aligning with established standards (e.g., TEA/TEKS). Optional/validated for most adults. See A.C.E. platform for details.
+*   **4.2 A.C.E. Skill Intensives (Monthly Courses):** The core mechanism for practical skill mastery for **all**. Intensive, one-month, deliverable-focused courses. Each follows the A.C.E. 4-Phase Cycle: **1. Foundation -> 2. Application -> 3. Execution (Gate) -> 4. Integration.** Details in Course READMEs.
+*   **4.3 Pathways:** Broad strategic arenas guiding Track/Course development (e.g., Design & Development). See `Pathways/README.md`.
+*   **4.4 Tracks:** Recommended sequences of Skill Intensives within a Pathway, guiding learners toward specific roles/mastery. Include Foundational, Practitioner, Specialist levels. See `Tracks/README.md` for catalog.
+*   **4.5 Customized Track Pathway (Advanced Option):** For exceptional participants demonstrating accelerated mastery. Allows proposing a unique learning sequence under mentorship, subject to rigorous ARKTIK approval. Adheres to all A.C.E. execution principles.
+*   **4.6 Execution Gates:** Verifiable demonstrations of mastery required for progression, primarily the successful, high-quality completion of monthly Skill Intensive deliverables and meeting Core Curriculum benchmarks (K-12).
 
 ## 5. A.C.E. Engagement Models & Financial Structure
 
-A.C.E. offers structured pathways balancing accessibility with sustainability and commitment:
+A.C.E. provides transparent pathways for participation:
 
-*   **5.1 Commitment-Based Scholarship Pathway:** For individuals deeply aligned with ARKTIK's mission and onshoring goals. Provides heavily subsidized (low-cost or free) base tuition in exchange for a multi-year (e.g., 3, 5, or 7 years) verifiable commitment to work onshore within relevant fields post-completion. Higher commitment tiers offer enhanced benefits like mentorship, incubation resources, and potential ARKTIK Equity Program access. Subject to Tool Fees (5.3) and Issuance Fee (7.4). Credential validity is conditional on commitment fulfillment (7.4).
-*   **5.2 Direct Tuition Pathway:** For those seeking A.C.E. training without a long-term work commitment. Involves a modest base tuition fee per module or track. Subject to Tool Fees (5.3) and Issuance Fee (7.4). Credential validity is non-revocable based on work status.
-*   **5.3 Tool & Platform Access Fees (Specific Tracks Only):** Certain tracks require licensed software or significant cloud resource usage (e.g., DAWs, NLEs, Salesforce, Asana Premium, Cloud Compute). Participants in these tracks incur additional periodic fees covering the managed cost of these essential tools plus transparent operational overhead. Applies regardless of Commitment or Tuition pathway unless explicitly included in a scholarship tier. Details in specific Track READMEs.
-*   **5.4 Blockchain Credential Issuance Fee (Universal):** A nominal, universal fee applies to all participants upon successful completion and issuance of their A.C.E. Certificate onto the blockchain. This covers direct transaction/operational costs (See 7.4).
-*   **5.5 Financial Sustainability:** Revenue from Direct Tuition and specific fees contributes to the overall sustainability of A.C.E., enabling the Scholarship Pathway and ensuring high-quality resources.
+*   **5.1 Commitment-Based Scholarship Pathway:** ARKTIK's investment in mission-aligned individuals pursuing onshoring goals. Subsidized (low-cost/free) **base tuition** requires a multi-year (3, 5, or 7 years) verifiable onshore work commitment. Higher tiers offer enhanced benefits (mentorship, incubation, equity program access). Subject to relevant Fees (5.3, 5.4). Credential validity is conditional (7.4).
+*   **5.2 Direct Tuition Pathway:** For those seeking A.C.E. training without the work commitment. Requires a **modest base tuition fee** per course/track. Subject to relevant Fees (5.3, 5.4). Credential validity is non-revocable based on work status.
+*   **5.3 Tool & Platform Access Fees (Specific Skill Intensives Only):** Certain courses require licensed software or significant cloud resources. Participants in these courses incur additional periodic **Tool & Platform Access Fees** covering ARKTIK's managed cost plus transparent operational overhead. Applies generally to both pathways unless specific scholarship terms state otherwise. Details in Course READMEs and A.C.E. Fee Schedule.
+*   **5.4 Blockchain Credential Issuance Fee (Universal):** Upon successful completion (Track or Workforce Program), a nominal, universal fee applies for the on-chain issuance of the A.C.E. Certificate/ARKTIK Endorsement, covering direct minting/operational costs.
+*   **5.5 Financial Sustainability:** Direct Tuition and specific Fees help sustain A.C.E. operations, ensuring quality resources and supporting the Scholarship Pathway, reflecting responsible financial stewardship.
 
 ## 6. Cross-Cutting Components (Integrated Throughout)
 
-Holistic development is ensured by weaving these elements into all Tracks and Modules:
+Holistic development is fostered by integrating these elements across Core Curriculum and Skill Intensives:
 
-*   **ARKTIK Values & Faith Integration:** Explicit connections, ethical scenarios, reflective practices.
-*   **Entrepreneurship & Business Acumen:** Sustainable business modeling, financial literacy, market understanding.
-*   **Project Management Discipline:** Practical application using tools like Asana in all execution phases.
-*   **Effective Communication & Collaboration:** Emphasis on clarity, documentation, feedback, teamwork.
-*   **Tiered Mentorship:** Guidance matched to learner phase and needs.
-*   **Execution Tracking & Portfolio:** Mandatory use of `EXECUTION_TRACKING` and building a verifiable GitHub-based Portfolio of Execution.
+*   ARKTIK Values & Faith Integration (Applied Ethics)
+*   Entrepreneurship & Business Acumen (Sustainable Models)
+*   Project Management Discipline (using Asana)
+*   Effective Communication & Collaboration
+*   Tiered Mentorship Structure
+*   Execution Tracking (`EXECUTION_TRACKING`) & Portfolio Development (GitHub-based)
 
 ## 7. Validation of Mastery & ARKTIK Endorsement
 
-A.C.E. competency is validated rigorously and transparently:
+A.C.E. competency is validated through rigorous, verifiable execution:
 
-*   **7.1 Execution Gates:** The primary mechanism for progressing through modules.
-*   **7.2 Comprehensive Portfolio of Execution:** Curated, verifiable proof of skills applied to real tasks and projects. The definitive record of capability.
-*   **7.3 Industry & ARKTIK Certifications:** Alignment with and preparation for relevant external certifications; awarding of internal ARKTIK Certifications based on demonstrated mastery.
+*   **7.1 Execution Gates:** Passing requires meeting quality standards for monthly Skill Intensive deliverables and Core Curriculum benchmarks (K-12).
+*   **7.2 Comprehensive Portfolio of Execution:** The primary, curated proof of capability, showcasing high-quality deliverables via GitHub or other verifiable platforms.
+*   **7.3 Industry & ARKTIK Certifications:** Skill Intensives provide preparation aligned with relevant external industry certifications. Internal ARKTIK Certifications are awarded based on demonstrated mastery within the A.C.E. framework.
 *   **7.4 Blockchain Credentials (ARKTIK Endorsement):**
-    *   **Endorsement:** All earned A.C.E. Certificates are registered as verifiable credentials on-chain, representing ARKTIK's official endorsement of the holder's proven skills, execution ability, and value alignment.
-    *   **Value/Risk/Fee:** The universal Issuance Fee (5.4), alongside the participant's investment (tuition or commitment), reflects the significant value of this endorsement, the labor involved, and partially insures ARKTIK against the reputational risk of vouching for an individual.
-    *   **Conditional Validity (Commitment Pathway Only):** For Commitment Pathway graduates, the *validity status* of the endorsement (on-chain) is linked via smart contract to their work commitment fulfillment, managed through a transparent ARKTIK governance process.
+    *   **Endorsement:** Earned A.C.E. Certificates are registered on-chain, representing **ARKTIK's official endorsement** of the holder's proven skills, execution ability, and value alignment per A.C.E. standards.
+    *   **Value/Risk/Fee Rationale:** Participant investment (tuition/commitment) + universal Issuance Fee reflect the credential's value, acknowledge the participant's labor, and partially insure ARKTIK against the **reputational risk** of its endorsement.
+    *   **Conditional Validity (Commitment Pathway ONLY):** The **validity status** of endorsements for Commitment Pathway graduates is linked via smart contract to work commitment fulfillment, managed through transparent ARKTIK governance.
 
 ## 8. A.C.E. Outcomes
 
-A.C.E. prepares members for direct, impactful contribution through:
+A.C.E. prepares participants for diverse, impactful futures:
 
-*   **Direct Employment:** Filling skilled roles within ARKTIK initiatives and aligned organizations.
-*   **Business Incubation:** Launching sustainable, mission-aligned ventures with ARKTIK support.
-*   **Certified Execution Roles:** Taking on responsibilities requiring specific, validated competencies.
-*   **Apprenticeship:** Advanced on-the-job training within key projects.
+*   **Higher Education Readiness (K-12 Focus):** Strong academic record and unique practical portfolio.
+*   **Direct Skilled Employment (All):** Verifiable skills for valuable **onshored** roles.
+*   **Career Change / Upskilling (Adult Focus):** Targeted pathways for professional advancement.
+*   **Entrepreneurship (All):** Skills and potential incubation support for mission-aligned ventures.
+*   **ARKTIK Contribution (All):** Pathways to apprenticeship, employment, or leadership ('first fruits').
 
 ## 9. Assessment Philosophy
 
-Assessment is continuous, primarily based on the **quality, integrity, and effectiveness of execution** against defined standards. It includes evaluation of technical skill, problem-solving, communication, adherence to values, and portfolio evidence. Feedback is direct, constructive, and focused on achieving mastery.
+Assessment is continuous, holistic, value-aligned, and fundamentally **execution-focused**, prioritizing the quality, integrity, and effectiveness of demonstrated skills over theoretical recall alone across all learning activities.
 
 ## 10. Workforce Development Partnership Programs
 
-Distinct from the core A.C.E. Tracks, ARKTIK offers focused, intensive **Certificate Programs** tailored for partnerships with workforce development agencies (e.g., Texas Workforce Development). These programs leverage A.C.E. modules for targeted upskilling, supporting our "tithe" of contribution and the onshoring mission. Details are in the `Workforce_Programs/` directory.
+Distinct from core A.C.E. Tracks, ARKTIK offers focused, intensive **Certificate Programs** tailored for **Workforce Development Partnerships** (e.g., Texas agencies), leveraging A.C.E. Skill Intensives for targeted upskilling as part of ARKTIK's community contribution ("tithe"). Details reside in the `Workforce_Programs/` directory.
 
 ## 11. Supporting Technology
 
-A.C.E. leverages robust, modern tools including: GitHub/Codespaces, Azure, GCP, Salesforce, Asana, Rust, Python, C#, Specific DAWs/NLEs (as required by track), and ARKTIK's internal operational platforms.
+A.C.E. strategically utilizes: GitHub/Codespaces, Cloud Platforms (Azure, GCP), Business Platforms (Salesforce, Asana, QuickBooks), Specialized Software (DAWs, NLEs, CAD, Rust, Python, C#, etc.), ARKTIK Internal Systems (`EXECUTION_TRACKING`, `GOVERNANCE`), and appropriate tools for Core Curriculum delivery.
 
 ## 12. Joining A.C.E.
 
-Entry requires alignment with ARKTIK's mission, a strong commitment to our values (especially accountability and integrity), and the tenacity for rigorous, execution-based learning. Prospective participants should review this framework, explore Pathways and Tracks, and follow the application procedures outlined by ARKTIK leadership or relevant partnership agreements.
+Entry demands alignment with ARKTIK's mission/values, commitment to execution-based learning, radical accountability, and tenacity.
+*   **K-12 Homeschool:** Enroll in the comprehensive program (Core Curriculum + Skill Intensives) via ARKTIK's homeschool process. Requires active parental/guardian facilitation.
+*   **Adult / Professional:** Apply for specific Tracks or module sequences based on goals and validated prerequisites (RPL available).
+Review Pathways/Tracks, understand Engagement Models/Fees, and follow designated application procedures.
 
 ## 13. Governance & Ethical Considerations
 
-The operation of A.C.E., particularly the management of conditional credentials and financial models, is subject to transparent ARKTIK governance processes, ensuring fairness, accountability, and alignment with our core ethical and faith principles.
+A.C.E. operations, including standards, assessment, fees, mentorship, and conditional credentials, are subject to transparent ARKTIK governance ensuring fairness, accountability, and alignment with core ethical and faith principles.
 
-## 14. License & Compliance
+## 14. License, Compliance & Accreditation Goals
 
-All A.C.E. materials and activities are governed by the **ARKTIK Hybrid License** and adhere to relevant educational, operational, safety, and legal compliance standards. Specific track requirements (e.g., software licenses, building codes, media laws) must be observed.
+All A.C.E. materials are governed by the **ARKTIK Hybrid License**. The framework is designed with careful consideration of relevant educational standards (e.g., **alignment with TEA/TEKS frameworks for K-12 Core Curriculum is a design goal**), operational best practices, safety regulations, and legal compliance. Participants must adhere to all tool licenses and ARKTIK codes of conduct. A.C.E. **aims to achieve external validation** for its rigor. While **not currently accredited** by traditional bodies, ARKTIK is committed to aligning with industry certifications, building a reputation based on **demonstrable participant competence**, and strategically pursuing relevant **accreditation pathways (CTE, Community College, University equivalency)** as the program matures. Our commitment is to transparency regarding current status and diligent pursuit of recognized quality benchmarks.
 
 ---
 **ARKTIK-ARKITEK**

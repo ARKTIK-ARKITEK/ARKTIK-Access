@@ -94,7 +94,7 @@ _(Based on Grade 6/7 Standard Sequence - specific durations/order may vary)_
     *   *[Course Details](./ACE-TECH-102_Problem_Solving/README.md)*
 5.  **`ACE-ITS-101`: Hardware & Operating System Fundamentals (Theory & Simulation)**
     *   *Focus:* PC Component ID/Function, OS Concepts (Win/Linux), Basic Troubleshooting Theory.
-    *   *[Course Details](../../IT_Support_Technician/Module_01_Hardware_OS/README.md)* *(Link adjusted)*
+    *   *[Course Details](../IT_Support_Technician/Module_01_Hardware_OS/README.md)*
 6.  **`ACE-SR-101`: Ecosystem Observation & Documentation**
     *   *Focus:* Systematic Environmental Observation, Nature Journaling (Digital/Physical), Basic Data Collection Methods.
     *   *[Course Details](./ACE-SR-101_Ecosystem_Observation/README.md)*

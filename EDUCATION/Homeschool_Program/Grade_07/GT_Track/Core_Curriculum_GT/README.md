@@ -29,15 +29,15 @@ The following core academic subjects form the basis of the daily GT curriculum f
 
 *   **Mathematics GT 7:**
     *   *Focus:* Accelerated Pre-Algebra/Introduction to Algebra I concepts, deeper exploration of properties, complex multi-step equations/inequalities, functions introduction, geometric reasoning, potentially integrating directly with introductory programming concepts (aligns heavily with `MA-R 101` track).
-    *   [Detailed Outline](./Mathematics_GT.md) *(Link to specific file)*
+    *   [Detailed Outline](./Mathematics_GT.md) 
 
 *   **Science GT 7:**
     *   *Focus:* Deeper dive into Life Science topics with emphasis on molecular biology (DNA/Genetics), advanced ecosystem dynamics/modeling, human body systems interactions, inquiry-based projects requiring more independent investigation and data analysis. Strong connection to systems thinking (`SCI-S 101` concepts).
-    *   [Detailed Outline](./Science_GT.md) *(Link to specific file)*
+    *   [Detailed Outline](./Science_GT.md) 
 
 *   **History GT 7:**
     *   *Focus:* While potentially covering required regional history (like Texas History), incorporates a broader **global perspective** and **thematic analysis** (aligning with `HIST-iSTEAM 101`). Emphasis on analyzing complex primary sources, historiography concepts (how history is written), and understanding long-term global patterns of development and interaction.
-    *   [Detailed Outline](./History_GT.md) *(Link to specific file)*
+    *   [Detailed Outline](./History_GT.md) 
 
 *   **(Potential Additional Subjects):** May include more formal Logic, advanced Ethics discussions, or introductory modules from other Pathways based on GT track design.
 

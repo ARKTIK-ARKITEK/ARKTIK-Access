@@ -10,56 +10,57 @@ The GT sequence is designed for accelerated learning, introducing more complex c
 
 ## Recommended Monthly Sequence (Cycle 1 - 2025)
 
-*   **Month 1: `ACE-FND-101`: A.C.E. Orientation & Advanced Digital Workflow**
-    *   *Focus:* Reinforcing A.C.E. model/values, mastering Git/GitHub workflow (branching best practices), efficient Codespaces use, advanced Asana for personal/project planning, rigorous Portfolio setup. *[GT Expectation: Higher proficiency and smoother adoption].*
-    *   *Deliverable Example:* Flawlessly configured Portfolio Repo demonstrating advanced Git commands; Detailed Asana plan.
-    *   *[Course Details](../../../Track/Foundational_Skills/ACE-FND-101_ACE_Workflow/README.md)*
+*(Note: Some core GT courses like MA-R 101 and ENG-SYS 101 represent substantial learning spanning multiple months; this sequence indicates the primary focus intensive initiated each month.)*
+
+*   **Month 1: `ACE-FND-101`: A.C.E. Orientation & Digital Workflow**
+    *   *Focus:* A.C.E. model/values, Git/GitHub workflow mastery, Codespaces, Asana basics, Portfolio Setup.
+    *   *Deliverable Example:* Configured Portfolio Repo with branching demo; Asana task board.
+    *   *[Course Details](../../../Track/Foundational_Skills/ACE-FND-101_ACE_Workflow/README.md)* **(Corrected Path)**
 
 *   **Month 2: `ACE-COMM-101`: Effective Digital Communication (Advanced Application)**
-    *   *Focus:* Crafting nuanced, precise communications; advanced presentation structure/design; ethical communication strategies for complex scenarios; insightful constructive feedback. *[GT Expectation: Higher level of polish, critical analysis].*
-    *   *Deliverable Example:* Advanced communication portfolio; Analysis of ethical dilemmas.
-    *   *[Course Details](../../../Track/Foundational_Skills/ACE-COMM-101_Digital_Comms/README.md)*
+    *   *Focus:* Nuanced professional communication, presentation design, ethical comms strategies, constructive feedback.
+    *   *Deliverable Example:* Advanced communication portfolio; Ethical dilemma analysis.
+    *   *[Course Details](../../../Track/Foundational_Skills/ACE-COMM-101_Digital_Comms/README.md)* **(Corrected Path)**
 
-*   **Month 3: `MA-R 101 (GT) - Start`: Algebraic Foundations & Rust Environment** *(Begins Multi-Month Focus)*
-    *   *Focus:* Setting up Rust/Codespaces for math computation; translating algebraic concepts to Rust; order of operations; data types/mutability. Initial units of the integrated Math/Rust course. *[GT Expectation: Rapid grasp of setup & syntax].*
+*   **Month 3: `MA-R 101 (GT) - Start`: Algebraic Foundations & Rust Environment** *(Multi-Month Focus Start)*
+    *   *Focus:* Rust/Codespaces setup for math; Algebraic concepts in Rust; Order of operations; Data types/mutability.
     *   *Deliverable Example:* Functional Rust programs evaluating expressions; Setup verification.
-    *   *[Course Details](../../../Track/Systems_Steward_Rust/ACE-MAR-101_Algebra_Rust_Foundations_GT/README.md)* *(Link assumes dedicated course file)*
+    *   *[Course Details](../../../Track/Systems_Steward_Rust/ACE-MAR-101_Algebra_Rust_Foundations_GT/README.md)* **(Corrected Path - Assuming MA-R 101 lives under SSR Track)**
 
-*   **Month 4: `MA-R 101 (GT) - Cont.`: Properties, I/O & Linear Equations in Rust** *(Continues Multi-Month Focus)*
-    *   *Focus:* Applying number properties; Rust operators (comparison/boolean); basic Rust I/O & parsing; starting to model/solve linear equations programmatically. Continuing units of the integrated Math/Rust course. *[GT Expectation: Deep understanding & troubleshooting].*
-    *   *Deliverable Example:* Rust programs verifying properties with user input; Basic linear equation solver/model.
-    *   *[Course Details](../../../Track/Systems_Steward_Rust/ACE-MAR-101_Algebra_Rust_Foundations_GT/README.md)* *(Link assumes dedicated course file)*
+*   **Month 4: `MA-R 101 (GT) - Cont.`: Properties, I/O & Linear Equations in Rust** *(Multi-Month Focus Continues)*
+    *   *Focus:* Number properties in Rust; Advanced operators; Basic Rust I/O & parsing; Modeling/solving linear equations.
+    *   *Deliverable Example:* Rust programs verifying properties w/ input; Basic equation solver.
+    *   *[Course Details](../../../Track/Systems_Steward_Rust/ACE-MAR-101_Algebra_Rust_Foundations_GT/README.md)* **(Corrected Path)**
 
-*   **Month 5: `ENG-SYS 101 (GT) - Start`: Engineering, Systems & GraphQL Intro** *(Begins Multi-Month Focus)*
-    *   *Focus:* Engineering Design Process (EDP); Systems Thinking principles applied broadly; Purpose of APIs; Introduction to GraphQL concepts. Initial units of the integrated Eng/Systems/GraphQL course. *[GT Expectation: Quick grasp of abstract concepts].*
-    *   *Deliverable Example:* System analysis diagram; Basic GraphQL playground interaction/queries.
-    *   *[Course Details](../../../Track/Design_and_Development/ACE-ENGSYS-101_Engineering_Systems_GraphQL_GT/README.md)* *(Link assumes dedicated course file)*
+*   **Month 5: `ENG-SYS 101 (GT) - Start`: Engineering, Systems & GraphQL Intro** *(Multi-Month Focus Start)*
+    *   *Focus:* EDP; Systems Thinking application; API purpose; GraphQL concepts introduction.
+    *   *Deliverable Example:* System analysis diagram; Basic GraphQL playground queries.
+    *   *[Course Details](../../../Track/Design_and_Development/ACE-ENGSYS-101_Engineering_Systems_GraphQL_GT/README.md)* **(Corrected Path - Assuming generic D&D pathway folder for now)**
 
-*   **Month 6: `ENG-SYS 101 (GT) - Cont.`: Problem Definition & GraphQL Schemas (SDL)** *(Continues Multi-Month Focus)*
-    *   *Focus:* Rigorous problem definition (Need, Constraints, Criteria); Reading/interpreting basic GraphQL Schema Definition Language (SDL); Connecting problem definition to data modeling via schemas. Continuing units of the integrated Eng/Systems/GraphQL course. *[GT Expectation: High precision & logical parsing].*
-    *   *Deliverable Example:* Well-defined problem statement; Schema analysis; GraphQL queries based on schema.
-    *   *[Course Details](../../../Track/Design_and_Development/ACE-ENGSYS-101_Engineering_Systems_GraphQL_GT/README.md)* *(Link assumes dedicated course file)*
+*   **Month 6: `ENG-SYS 101 (GT) - Cont.`: Problem Definition & GraphQL Schemas (SDL)** *(Multi-Month Focus Continues)*
+    *   *Focus:* Rigorous Problem Definition (Need/Constraints/Criteria); Reading/Interpreting basic GraphQL SDL; Connecting problems to data models.
+    *   *Deliverable Example:* Well-defined problem statement; Schema analysis; Schema-based query formulation.
+    *   *[Course Details](../../../Track/Design_and_Development/ACE-ENGSYS-101_Engineering_Systems_GraphQL_GT/README.md)* **(Corrected Path)**
 
 *   **Month 7: `ACE-LAPW-101`: Applied Communication & Narrative Foundations**
-    *   *Focus:* Mastering Audience/Purpose/Context analysis; Exploring writing forms (Narrative, Journalistic, Technical, Reflective); Deep dive into Narrative Structure (Three-Act). *[GT Expectation: Sophisticated analysis & application].*
-    *   *Deliverable Example:* Analytical portfolio; Detailed story outline using Three-Act structure.
-    *   *[Course Details](../../../Track/Foundational_Skills/ACE-LAPW-101_Applied_Comms_Narrative/README.md)*
+    *   *Focus:* Audience/Purpose/Context mastery; Writing form overview; Narrative Structure (Three-Act).
+    *   *Deliverable Example:* Analytical portfolio; Detailed Three-Act story outline.
+    *   *[Course Details](../../../Track/Foundational_Skills/ACE-LAPW-101_Applied_Comms_Narrative/README.md)* **(Corrected Path)**
 
-*   **Month 8: `ACE-FILM-VS-101`: Visual Storytelling Foundations** *(Starts Media Exploration)*
-    *   *Focus:* Translating narrative structure into visual language; Cinematic composition/shot types basics; Introduction to storyboarding; Analyzing film structure visually. *[GT Expectation: Strong conceptual link between written/visual narrative].*
-    *   *Deliverable Example:* Storyboard or detailed visual outline for a short narrative sequence.
-    *   *[Course Details](../../../Track/Film_and_Cinematography/ACE-FILM-VS-101_Visual_Story_Foundations/README.md)*
+*   **Month 8: `ACE-FILM-VS-101`: Visual Storytelling Foundations**
+    *   *Focus:* Translating narrative to visuals; Composition/Shot Types basics; Storyboarding intro; Analyzing film structure.
+    *   *Deliverable Example:* Storyboard or detailed visual outline for a narrative sequence.
+    *   *[Course Details](../../../Track/Film_and_Cinematography/ACE-FILM-VS-101_Visual_Story_Foundations/README.md)* **(Corrected Path)**
 
 *   **Month 9: `ACE-LEAD-101`: Introduction to Teamwork & Collaboration**
-    *   *Focus:* Principles of effective ARKTIK teamwork (Empathy, Accountability, Transparency); Communication in groups; Basic team roles; Using collaborative digital tools effectively. *[GT Expectation: Demonstrate emerging leadership and high responsibility].*
-    *   *Deliverable Example:* Collaborative Team Charter; Documented individual contributions; Insightful reflection.
-    *   *[Course Details](../../../Track/Foundational_Skills/ACE-LEAD-101_Teamwork_Collab/README.md)*
+    *   *Focus:* ARKTIK teamwork principles (Empathy, Accountability); Group communication; Basic team roles; Collaborative tool usage.
+    *   *Deliverable Example:* Collaborative Team Charter; Documented contributions; Reflection.
+    *   *[Course Details](../../../Track/Foundational_Skills/ACE-LEAD-101_Teamwork_Collab/README.md)* **(Corrected Path)**
 
 *   **Month 10: `ACE-PORT-102`: 7th Grade GT Portfolio Curation & Synthesis**
-    *   *Focus:* Compiling key deliverables from the year's advanced Skill Intensives; Writing sophisticated reflections demonstrating skill *integration* across domains (e.g., Math/Rust, Eng/GraphQL, Narrative/Visuals) and deep value alignment; Preparing portfolio for advancement review. *[GT Expectation: High level of organization, insightful synthesis].*
-    *   *Deliverable Example:* Polished, well-organized digital Portfolio showcasing complex projects with insightful reflective commentary demonstrating synthesis and mastery.
-    *   *[Course Details](../../../Track/Foundational_Skills/ACE-PORT-102_Portfolio_Curation/README.md)*
-
+    *   *Focus:* Compiling advanced deliverables; Writing sophisticated reflections demonstrating integration across domains (Math/Rust, Eng/GraphQL, Narrative/Visuals); Portfolio review prep.
+    *   *Deliverable Example:* Polished Portfolio showcasing complex projects with insightful synthesis.
+    *   *[Course Details](../../../Track/Foundational_Skills/ACE-PORT-102_Portfolio_Curation/README.md)* **(Corrected Path)**
 ## Important Notes
 
 *   **Prerequisites:** Each Skill Intensive assumes mastery of previous courses and A.C.E. Phase 0. Specific technical/conceptual prerequisites for `MA-R 101` and `ENG-SYS 101` are critical and detailed in their respective Course READMEs.

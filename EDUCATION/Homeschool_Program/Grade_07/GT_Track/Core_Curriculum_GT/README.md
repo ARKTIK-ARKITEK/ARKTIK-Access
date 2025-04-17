@@ -25,7 +25,7 @@ The following core academic subjects form the basis of the daily GT curriculum f
 
 *   **Language Arts GT 7:**
     *   *Focus:* Advanced literary analysis (complex themes, authorial craft), sophisticated non-fiction critique, nuanced argumentative writing with complex evidence, advanced grammar/syntax for stylistic effect, expanded vocabulary geared towards higher-level discourse.
-    *   [Detailed Outline](./Language_Arts_GT.md) *(Link to specific file)*
+    *   [Detailed Outline](./Language_Arts_GT.md) 
 
 *   **Mathematics GT 7:**
     *   *Focus:* Accelerated Pre-Algebra/Introduction to Algebra I concepts, deeper exploration of properties, complex multi-step equations/inequalities, functions introduction, geometric reasoning, potentially integrating directly with introductory programming concepts (aligns heavily with `MA-R 101` track).

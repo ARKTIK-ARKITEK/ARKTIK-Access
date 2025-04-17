@@ -13,7 +13,7 @@ The GT sequence is designed for accelerated learning, introducing more complex c
 *   **Month 1: `ACE-FND-101`: A.C.E. Orientation & Digital Workflow**
     *   *Focus:* A.C.E. model/values, Git/GitHub workflow mastery, Codespaces, Asana basics, Portfolio Setup.
     *   *Deliverable Example:* Configured Portfolio Repo; Asana task board.
-    *   *[Course Details](../../../../Track/Foundational_Skills/ACE-FND-101_ACE_Workflow/README.md)*
+    *   *[Course Details](../../../../EDUCATION/Track/Foundational_Skills/ACE-FND-101_ACE_Workflow/README.md)*
 
 *   **Month 2: `ACE-COMM-101`: Effective Digital Communication (Advanced Application)**
     *   *Focus:* Nuanced professional communication, presentation design, ethical comms strategies, constructive feedback.

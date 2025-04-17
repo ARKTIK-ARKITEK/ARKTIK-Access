@@ -23,19 +23,19 @@ The following core academic subjects form the basis of the daily curriculum for 
 
 *   **Language Arts 7:**
     *   Focus: Expanding reading comprehension across diverse texts, advanced grammar and composition, developing analytical and persuasive writing skills, vocabulary building.
-    *   [Detailed Outline](./Language_Arts.md) *(Link to specific file)*
+    *   [Detailed Outline](./Language_Arts.md) 
 
 *   **Mathematics 7:**
     *   Focus: Pre-Algebra concepts, integers, rational numbers, proportions, basic geometry introductions, data analysis fundamentals, problem-solving strategies. *(Note: GT students may follow an accelerated path aligned with MA-R 101).*
-    *   [Detailed Outline](./Mathematics.md) *(Link to specific file)*
+    *   [Detailed Outline](./Mathematics.md) 
 
 *   **Science 7:**
     *   Focus: Life Science emphasis (cell biology, genetics, ecosystems, human body systems), scientific inquiry methods, basic chemistry/physics concepts related to life processes. *(Note: GT students may integrate concepts more deeply with SCI-S 101).*
-    *   [Detailed Outline](./Science.md) *(Link to specific file)*
+    *   [Detailed Outline](./Science.md) 
 
 *   **History 7:**
     *   Focus: Typically Texas History (aligning with TEKS) or potentially World History survey (Ancient Civilizations continued - aligning with HIST-iSTEAM). Emphasis on primary source analysis, historical thinking skills, understanding cause/effect. *(Note: GT students may integrate concepts more deeply with HIST-iSTEAM 101).*
-    *   [Detailed Outline](./History.md) *(Link to specific file)*
+    *   [Detailed Outline](./History.md) 
 
 *   **(Potential Additional Subjects):** Depending on specific A.C.E. structure, introductory modules on Logic, Ethics, or foundational aspects of other Pathways may be integrated here.
 

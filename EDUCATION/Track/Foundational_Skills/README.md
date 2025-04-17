@@ -86,9 +86,9 @@ _(Based on Grade 6/7 Standard Sequence - specific durations/order may vary)_
 2.  **`ACE-COMM-101`: Effective Digital Communication**
     *   *Focus:* Professional Email/Messaging, Basic Presentation Skills, Digital Etiquette.
     *   *[Course Details](./ACE-COMM-101_Digital_Comms/README.md)*
-3.  **`ACE-BOA-101`: Foundations of Business Operations & Ethics**
+3. **`ACE-BOA-101`: Foundations of Business Operations & Ethics**
     *   *Focus:* ARKTIK operational context, Process basics, Data Privacy, Ethics, Standard Office Tools.
-    *   *[Course Details](../../Business_Ops_Assistant/Module_01_Foundational_Ops_Tools/README.md)* *(Link adjusted)*
+    *   *[Course Details](../Business_Ops_Assistant/Module_01_Foundational_Ops_Tools/README.md)*
 4.  **`ACE-TECH-102`: Structured Problem Solving & Algorithmic Thinking**
     *   *Focus:* Decomposition, Pattern Recognition, Algorithms (Pseudocode/Flowcharts), Logical Reasoning.
     *   *[Course Details](./ACE-TECH-102_Problem_Solving/README.md)*

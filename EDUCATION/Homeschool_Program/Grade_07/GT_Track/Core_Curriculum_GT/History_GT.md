@@ -12,7 +12,7 @@ Building upon standard historical thinking skills, by the end of 7th Grade GT Hi
 
 *   Apply advanced historical inquiry methods, including critical analysis of diverse primary sources (textual, visual, artifactual), identification of complex bias/perspective, and evaluation of historiographical arguments (how history is written).
 *   Analyze the interconnected development of Science, Technology, Engineering, Arts, and Math (iSTEAM) within and across various global civilizations over long time periods ("Deep History").
-*   Identify and explain significant iSTEAM contributions from non-European cultures (e.g., Mesopotamia, Egypt, India, China, Islamic Golden Age, Meso/Andean America, Sub-Saharan Africa) and trace the global flow of ideas.
+*   Identify and explain significant iSTEAM contributions from Global cultures (e.g., Mesopotamia, Egypt, India, China, Islamic Golden Age, Meso/Andean America, Sub-Saharan Africa) and trace the global flow of ideas.
 *   Evaluate the impact of geographical, social, political, economic, and cultural factors on the trajectory of iSTEAM innovation in different contexts.
 *   Construct sophisticated, evidence-based historical arguments and interpretations in written and potentially presentation formats.
 *   Critically assess historical narratives for completeness, perspective, and adherence to evidence ("Truth over Feeling").
